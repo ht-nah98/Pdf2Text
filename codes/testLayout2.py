@@ -25,7 +25,24 @@ im_show = Image.fromarray(im_show)
 im_show.save('result2.jpg')
 
 
-
+# # Chinese image
+# table_engine = PPStructure(recovery=True, use_gpu=False)
+# # English image
+# # table_engine = PPStructure(recovery=True, lang='en')
+#
+# save_folder = './txt_generate'
+# img_path = './pages/testpage_idx5.png'
+# img = cv2.imread(img_path)
+# result = table_engine(img)
+# save_structure_res(result, save_folder, os.path.basename(img_path).split('.')[0])
+#
+# for line in result:
+#     line.pop('img')
+#     print(line)
+#
+# h, w, _ = img.shape
+# res = sorted_layout_boxes(result, w)
+# convert_info_docx(img, res, save_folder, os.path.basename(img_path).split('.')[0])
 
 
 
