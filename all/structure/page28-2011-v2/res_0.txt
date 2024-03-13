@@ -1,0 +1,4 @@
+{"type": "text", "bbox": [295, 41, 561, 271], "res": "", "img_idx": 0}
+{"type": "text", "bbox": [4, 43, 277, 413], "res": "", "img_idx": 0}
+{"type": "figure", "bbox": [1, 58, 577, 931], "res": "", "img_idx": 0}
+{"type": "figure_caption", "bbox": [216, 937, 300, 946], "res": "", "img_idx": 0}

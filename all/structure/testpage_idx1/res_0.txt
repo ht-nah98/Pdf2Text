@@ -1,0 +1,5 @@
+{"type": "text", "bbox": [495, 448, 683, 907], "res": "", "img_idx": 0}
+{"type": "text", "bbox": [270, 513, 462, 907], "res": "", "img_idx": 0}
+{"type": "text", "bbox": [41, 40, 241, 910], "res": "", "img_idx": 0}
+{"type": "title", "bbox": [269, 444, 455, 508], "res": "", "img_idx": 0}
+{"type": "reference", "bbox": [495, 446, 682, 908], "res": "", "img_idx": 0}

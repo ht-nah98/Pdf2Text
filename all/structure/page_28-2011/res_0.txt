@@ -1,0 +1,1 @@
+{"type": "figure", "bbox": [79, 104, 667, 958], "res": "", "img_idx": 0}
