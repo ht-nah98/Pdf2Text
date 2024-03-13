@@ -1,8 +1,0 @@
-{"type": "text", "bbox": [128, 57, 388, 87], "res": "", "img_idx": 0}
-{"type": "text", "bbox": [128, 988, 972, 1045], "res": "", "img_idx": 0}
-{"type": "text", "bbox": [131, 553, 422, 571], "res": "", "img_idx": 0}
-{"type": "title", "bbox": [134, 553, 420, 570], "res": "", "img_idx": 0}
-{"type": "title", "bbox": [126, 18, 655, 51], "res": "", "img_idx": 0}
-{"type": "title", "bbox": [135, 427, 242, 444], "res": "", "img_idx": 0}
-{"type": "figure", "bbox": [139, 113, 1274, 846], "res": "", "img_idx": 0}
-{"type": "figure", "bbox": [131, 840, 1226, 1048], "res": "", "img_idx": 0}

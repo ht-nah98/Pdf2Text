@@ -5,9 +5,9 @@ from PIL import Image
 import numpy as np
 
 
-table_engine = PPStructure(table=False, ocr=False, show_log=True)
+table_engine = PPStructure(recovery=True, use_gpu=False)
 
-img_path = '../all/page28-2011-v2.png'
+img_path = '../imgTestv1/img2Cols/text_10.jpg'
 save_directory = './generate_imgs'
 img = cv2.imread(img_path)
 # Get the width and height of the image

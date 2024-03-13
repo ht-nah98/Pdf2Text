@@ -5,14 +5,12 @@ from pdf2image import convert_from_path
 import tqdm
 import os
 from codes.tableFigureConverter import TableFigureExtractor
-# from codes.structureWith1Column import PdfProcessor
+from codes.structureWith1Column import PdfProcessor
 # from codes.structureWith2Column import PdfProcessor
-from codes.structureWith3column import PdfProcessor
+# from codes.structureWith3Column import PdfProcessor
 
 
-
-
-def process_result_sorted(result_sorted, img_path):
+def process_result_sorted(result_sorted, img_path, output_dir):
     def process_region(img, bbox, file):
         region = img.crop(bbox)
         region_np = np.array(region.convert("RGB"))
@@ -27,7 +25,10 @@ def process_result_sorted(result_sorted, img_path):
         table_extractor.write_to_txt(out_array, file, separator='|')
         file.write('\n')  # Add a newline character to insert a break
 
-    with open("txt_generate/testpage_idx3.txt", "a", encoding="utf-8") as file:
+    img_name = os.path.splitext(os.path.basename(img_path))[0]
+    output_file_path = os.path.join(output_dir, f"{img_name}.txt")
+
+    with open(output_file_path, "a", encoding="utf-8") as file:
         for line in result_sorted:
             if line['type'] == 'text' or line['type'] == 'reference' or line['type'] == 'title' or line['type'] == 'footer' or line['type'] == 'figure_caption':
                 if isinstance(line['res'], list):
@@ -42,24 +43,36 @@ def process_result_sorted(result_sorted, img_path):
                 for bbox in table_regions:
                     process_region(img, bbox, file)
             elif line['type'] == 'figure':
-                figure_regions = [line['bbox']]
-                img = Image.open(img_path)
-                for bbox in figure_regions:
-                    process_region(img, bbox, file)
+                if line['res']:
+                    figure_regions = [line['bbox']]
+                    img = Image.open(img_path)
+                    for bbox in figure_regions:
+                        process_region(img, bbox, file)
+                else:
+                    file.write("\n")
             else:
                 file.write("\n")
 
-# using processor for different pdf structure to get suitable data to process
-processor = PdfProcessor()
-# img_path = './all/page28-2011-v2.png'
-img_path = 'pages/testpage_idx3.png'
-result_sorted = processor.process_structure(img_path)
-process_result_sorted(result_sorted, img_path)
-#
-# for line in result_sorted:
-#     if 'img' in line:
-#         line.pop('img')
-#     print(line)
+
+def process_images_in_directory(directory_path, output_dir):
+    processor = PdfProcessor()
+    for filename in os.listdir(directory_path):
+        if filename.endswith(".png") or filename.endswith(".jpg"):
+            img_path = os.path.join(directory_path, filename)
+            result_sorted = processor.process_structure(img_path)
+            process_result_sorted(result_sorted, img_path, output_dir)
+
+
+# Directory containing the images
+img_directory = './imgTestv1/imgTables'
+output_directory = './imgTestv1/imgTables'
+
+# Create the output directory if it doesn't exist
+os.makedirs(output_directory, exist_ok=True)
+
+# Process all images in the directory
+process_images_in_directory(img_directory, output_directory)
+
 
 
 

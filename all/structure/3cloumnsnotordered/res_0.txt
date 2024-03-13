@@ -1,6 +1,0 @@
-{"type": "text", "bbox": [299, 102, 494, 212], "res": "", "img_idx": 0}
-{"type": "text", "bbox": [74, 103, 256, 246], "res": "", "img_idx": 0}
-{"type": "figure", "bbox": [69, 971, 507, 1088], "res": "", "img_idx": 0}
-{"type": "figure", "bbox": [67, 786, 505, 940], "res": "", "img_idx": 0}
-{"type": "figure_caption", "bbox": [74, 710, 446, 738], "res": "", "img_idx": 0}
-{"type": "table", "bbox": [70, 264, 734, 690], "res": "", "img_idx": 0}
