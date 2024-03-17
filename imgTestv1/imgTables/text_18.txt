@@ -1,70 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expand Button</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button id="expandBtn">Expand</button>
+    <div id="daysContainer" style="display: none;"></div>
+    <script src="script.js"></script>
+</body>
+</html>
 
 
-														Millions of Yen         |	Millions of Yen         |	Millions of Yen         |										
-															2005                    |	2005                    |										
-															Chemicals,              |	Chemicals,              |				Finance, Realty,|	Finance, Realty,|	Finance, Realty,|				
-		Electronics &                   |	Textile|	Textile|		Machinery|	Machinery|	Aerospace,   |	Electronics &|	Electronics &|		Metals &|	Metals &|		General                 |	Forest Products &       |		Food     |		Insurance &     |	Logistics       |	Logistics       |	Adjustments &|	Consolidated|	Consolidated|	Consolidated|
-		Minerals                        |						Multimedia   |	Multimedia   |	Multimedia   |		Minerals|	Minerals|	Merchandise             |	Merchandise             |	Merchandise             |					Services        |	Services        |	Eliminations |			
-Trading transactions:      |																										
-Unaffiliated customers     |																										
-and associated             |																										
-companies ....             |		829.0931.166.654630.8542.471.488|												1.893.215               |	1.893.215               |	1.893.215               |	2.111.932               |	2.111.932|	2.111.932|	243.092         |	243.092         |	243.092         |	229,711      |	9,576,039   |	9,576,039   |	9,576,039   |
-Transfers between          |																										
-operating seqments...      |		3,637                           |		780    |			110      |			3,637        |			913     |			6,344                   |		276      |	276      |		7,550           |	7,550           |	(19,610)     |			
-Total trading              |																										
-transactions...            |		829,8731,166,764634,4912,472,401|												1,899,559               |	1,899,559               |	1,899,559               |	2,112,208               |	2,112,208|	2,112,208|	250,642         |	250,642         |	250,642         |	210,101      |	9,576,039   |	9,576,039   |	9,576,039   |
-Gross trading profit ..... |	112,843|	39,079                          |	112,843|	112,843|	?   |		57,973   |	108,410      |	108,410      |	108,410      |	108,410|		39,079  |	?                       |	105,939                 |	105,939                 |		136,161  |	136,161  |	39,329          |	39,329          |	39,329          |	31,027       |	630,761     |	630,761     |	630,761     |
-Equity in earnings (losses)|																										
-of associated companies... |		11,975                          |		310    |	310 |		4,482    |	?            |	1,872        |	1,872        |			11,975  |	?                       |		1,188                   |		10,018   |	10,018   |	?               |	2,452           |	2,452           |	(533)        |	?           |	31,764      |	31,764      |
-Net income (loss)          |	14,810 |	25,672                          |	14,810 |	14,810 |	?   |		10,480   |	14,362       |	14,362       |	14,362       |			25,672  |			20,253                  |		9,278)   |	9,278)   |	?               |	5,360           |	5,360           |	3,867        |		77,792      |	77,792      |
-Identifiable assets        |																										
-at March 31...             |		377,230451,442 489,415491,012   |													583,720                 |	583,720                 |	727,959                 |	727,959  |	727,959  |	615,304         |	615,304         |	615,304         |	736,263      |	4,472,345   |	4,472,345   |	4,472,345   |
-Depreciation and           |																										
-amortization.              |	?      |	3,297                           |	4,002  |	4,002  |	?   |		1,835    |	?            |		9,998        |	?      |		3,297   |	*                       |		5,266                   |	*                       |	5,710    |	5,710    |	?               |	2,182           |	2,182           |	7,796        |		40,086      |	40,086      |
-														Millions of U.S. Dollars|	Millions of U.S. Dollars|	Millions of U.S. Dollars|	Millions of U.S. Dollars|									
-															2007                    |	2007                    |										
-															Chemicals,              |	Chemicals,              |				Finance, Realty,|	Finance, Realty,|	Finance, Realty,|	Other,       |			
-		Electronics &                   |	Textile|	Textile|		Machinery|	Machinery|	Electronics &|	Electronics &|	Electronics &|		Metals &|	Metals &|	Forest Products &       |	General                 |	Forest Products &       |		Food     |		Insurance &     |	Logistics       |	Logistics       |	Adjustments &|	Consolidated|	Consolidated|	Consolidated|
-		Minerals                        |						Multimedia   |	Multimedia   |	Multimedia   |		Minerals|	Minerals|	Merchandise             |	Merchandise             |	Merchandise             |					Services        |	Services        |	Eliminations |			
-Trading transactions:      |																										
-Unaffiliated customers.    |																										
-and associated             |																										
-companies ..               |		$25,582                         |	$6,832 |	$6,832 |		$13,459  |	$13,459  |		$5,902       |	$5,902       |		$25,582 |	$25,582 |		$18,274                 |	$18,274                 |		$23,963  |	$23,963  |		$1,878          |	$1,878          |	$2,196       |		$98,086     |	$98,086     |
-Transfers between          |																										
-Operating seqments ....    |				5      |			5        |			29           |			5       |			67                      |			4        |			14              |	(129)        |			
-Total trading              |																										
-transactions               |		$25,587                         |	$6,837 |	$6,837 |		$13,464  |	$13,464  |		$5,931       |	$5,931       |		$25,587 |	$25,587 |		$18,341                 |	$18,341                 |		$23,967  |	$23,967  |		$1,892          |	$1,892          |	$2,067       |		$98,086     |	$98,086     |
-Gross trading profit .     |		865                             |	$1,056 |	$1,056 |		$        |	766      |		$1,131       |	$1,131       |		$       |	865     |		$1,069                  |	$1,069                  |		$2,241   |	$2,241   |		$367            |	$367            |	$202         |		$7,697      |	$7,697      |
-Equity in earnings (losses)|																										
-of associated companie.... |		229                             |	$      |	13     |		$        |	49       |		$            |	13)          |		$       |	229     |		$                       |	20                      |		$        |	87       |		$559            |	$559            |	4            |		$(170)      |	$(170)      |
-Net income (loss)          |		$145                            |	$145   |	$145   |		$        |	179      |		$            |	95           |			684     |		$                       |	210                     |		$        |	153      |		$240            |	$240            |	$274         |		$1,500      |	$1,500      |
-Identifiable assets        |																										
-at March 31                |		$6,619                          |	$3,404 |	$3,404 |		$5,386   |	$5,386   |		$4,669       |	$4,669       |		$6,619  |	$6,619  |		$6,072                  |	$6,072                  |		$9,070   |	$9,070   |		$4,446          |	$4,446          |	$4,989       |		$44,655     |	$44,655     |
-Depreciation and           |																										
-amortization.              |		165                             |	$      |	38     |		$        |	40       |		$            |	58           |		$       |	165     |		$                       |	41                      |		$        |	68       |		$               |	14              |	 54          |		$           |	478         |
 
-								Mons oTYen |						
-								2005       |						
-								Chemicals, |			Finance, Realty,|	Finance, Realty,|		
-		Textile             |		Machinery           |	Electronics &       |		Metals & |	General    |		Food     |	Insurance &     |	Logistics       |	Adjustments &|	Consolidated|
-					Multimedia          |		Minerals |	Merchandise|				Services        |	Eliminations |	
-Trading transactions:      |														
-Unaffiliated customers     |														
-and associated             |														
-companies.                 |								1.893.215  |	2.111.932|	2.111.932|	243,092         |	243,092         |	229,711      |	9,576,039   |
-Transfers between          |														
-operating segments...      |		780                 |		110                 |	3,637               |		913      |	6,344      |		276      |		7,550           |	19,610)      |	
-Total trading              |														
-transactions.              |		829,8731166,764     |		829,8731166,764     |	634.491             |	2,472,401|	2,472,401|	1899,559   |	2,112,208|	2,112,208|	250,642         |	250,642         |	210,101      |	9,576,039   |
-Gross trading profit       |	112.843|	112.843             |	?     |	57,973              |	108.410             |	?        |	39,079   |	105,939    |	?        |	136,161  |	39,329          |	39,329          |	31,027       |	630,761     |
-Equity in earnings (losses)|														
-Of associated companies....|		310                 |	310   |	4,482               |	1,872               |	?        |	11,975   |	1,188      |		10,018   |	?               |	2,452           |	(533)        |	31,764      |
-Net income (loss)          |	14,810 |	14,810              |	14,810|	10,480              |	14,362              |	?        |	25,672   |	20,253     |		9,278    |	9,278           |	5,360           |	3,867        |	77,792      |
-Identifiable assets        |														
-at March 31.               |		377230451,442489,415|		377230451,442489,415|	377230451,442489,415|	491,012  |	491,012  |	583,720    |		727,959  |	615,304         |	615,304         |	736,263      |	4,472,345   |
-Depreciation and           |														
-amortization               |	*      |	4,002               |	4,002 |	1,835               |	9,998               |	?        |	3,297    |	5,266      |	?        |	5,710    |	?               |	2,182           |	7,796        |	40,086      |
+// Get references to the button and the container
+const expandBtn = document.getElementById('expandBtn');
+const daysContainer = document.getElementById('daysContainer');
 
+// Data
+const days = ['mondey', 'true', 'three', 'four'];
 
-net income (los, identifiable asets no allocated to the specifed operating segments in domestic and foeig areas, eliminations and adjust- ments,etc. 2. Net income (loss) in “Energy, Metals & Minerals" for the year ended March 31, 2006 includes (3,439) million (($29) million) on net-of-tax basisof the cumulative effet of an accounting changeresulting from earlyadoption of EITF 04-6, Accounting for Striping CostsIncured during Production in the Mining Industry."
-net income (los, identifiable asets no allocated to the specifed operating segments in domestic and foeig areas, eliminations and adjust- ments,etc. 2. Net income (loss) in “Energy, Metals & Minerals" for the year ended March 31, 2006 includes (3,439) million (($29) million) on net-of-tax basisof the cumulative effet of an accounting changeresulting from earlyadoption of EITF 04-6, Accounting for Striping CostsIncured duringProduction in theMining Industry."
+// Function to populate the container with days data
+function showDays() {
+    // Clear the container first
+    daysContainer.innerHTML = '';
+
+    // Loop through the days array and create a list item for each day
+    days.forEach(day => {
+        const listItem = document.createElement('li');
+        listItem.textContent = day;
+        daysContainer.appendChild(listItem);
+    });
+
+    // Display the container
+    daysContainer.style.display = 'block';
+}
+
+// Event listener for the button click
+expandBtn.addEventListener('click', showDays);
