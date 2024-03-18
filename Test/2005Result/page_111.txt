@@ -1,0 +1,162 @@
+The changes in the benefit obligations and fair value of the plan assets and the funded status of the plans were as follows:
+Millions of Yen
+2005
+2004
+Change in benefit obligations: 
+Projected benefit obligations at beginning of year .......................................................
+Service cost  ...............................................................................................................
+Interest cost ...............................................................................................................
+Plan participants’ contributions  ..................................................................................
+Unrecognized prior service cost  .................................................................................
+Actuarial gain ..............................................................................................................
+Benefits paid ..............................................................................................................
+Foreign currency translation adjustments  ...................................................................
+Other  .........................................................................................................................
+Projected benefit obligation at end of year  .................................................................
+¥ 266,697 
+6,965 
+5,934 
+997 
+—
+(4,612)
+(10,330)
+57 
+5,967 
+271,675 
+Change in plan assets: 
+Fair value of plan assets at beginning of year  .............................................................
+Actual return on plan assets .......................................................................................
+Employer contributions  ..............................................................................................
+Plan participants’ contributions  ..................................................................................
+Benefits paid ..............................................................................................................
+Foreign currency translation adjustments  ...................................................................
+Other  .........................................................................................................................
+Fair value of plan assets at end of year .......................................................................
+Funded status at end of year .........................................................................................
+Unrecognized actuarial loss  ..........................................................................................
+Unrecognized prior service cost .....................................................................................
+Net amount recognized .................................................................................................
+339,031 
+(4,773)
+17,025 
+997 
+(10,330)
+(20)
+(12,676)
+329,254 
+57,579 
+147,127 
+(45,071)
+159,635 
+¥ 336,246 
+9,511 
+7,596 
+1,025 
+(25,782)
+(9,715)
+(13,232)
+173 
+(39,125)
+266,697 
+308,102 
+74,243 
+18,045 
+1,025 
+(13,232)
+(68)
+(49,084)
+339,031 
+72,334 
+141,110 
+(49,967)
+163,477 
+Adjustments to recognize minimum pension liability:
+Accumulated other comprehensive loss before income tax effect  ..............................
+Net amount recognized in the consolidated balance sheets  ..........................................
+Prepaid pension cost  ....................................................................................................
+Accrued retirement and severance benefits recognized 
+3,150 
+156,485 
+178,890 
+1,246 
+162,231 
+183,743 
+Millions of
+U.S. dollars
+2005
+$ 2,483 
+65 
+55 
+9 
+—
+(43)
+(96)
+1 
+56 
+2,530 
+3,157 
+(45)
+159 
+9 
+(96)
+(0)
+(118)
+3,066 
+536 
+1,370 
+(420)
+1,486 
+29 
+1,457 
+1,666 
+in the consolidated balance sheets  ............................................................................
+(22,405)
+(21,512)
+(209)
+Accumulated benefit obligations at end of year  .............................................................
+Weighted-average assumptions used to determine benefit obligations at the end of year:
+Discount rate  .............................................................................................................
+Rate of compensation increase...................................................................................
+Weighted-average assumptions used to determine net periodic pension cost for the year:
+Discount rate  .............................................................................................................
+Expected long-term rate of return on plan assets .......................................................
+Rate of compensation increase...................................................................................
+¥ 270,622 
+¥ 264,644 
+$ 2,520
+2.4%
+1.0-6.0%
+2.4%
+1.9-6.0%
+2.4%
+2.3%
+1.9-6.0%
+2.4%
+3.5%
+2.3-6.7%
+The prior service cost of the Company is amortized by the
+straight-line method over the average remaining service period
+of employees expected to receive related benefits. The unrec-
+ognized net actuarial loss of the Company is amortized by the
+straight-line method over the average remaining service periods.
+The “Other” in the change in benefit obligations for the year
+ended March 31, 2005 included the amount attributable to a
+partial settlement in CPF of ¥4,936 million ($46 million). The
+“Other” in the change in plan assets for the year ended March
+31, 2005 included a partial settlement in CPF of ¥5,389 million
+($50 million) and the amount of the withdrawal from the plan
+assets, which was ¥14,084 million ($131 million).
+The “Other” in the change in benefit obligations for the year
+ended March 31, 2004 included the amount by the transfer,
+which was ¥41,702 million, to the government by the
+Company and certain subsidiaries of the substitutional portion
+of EPF. The “Other” in the change in plan assets for the year
+ended March 31, 2004 included the transfer, which was
+¥20,845 million, to the government of the substitutional por-
+tion of EPF, and the withdrawal, which was ¥30,698 million,
+from plan assets. 
+The fair value of equity securities of subsidiaries and asso-
+ciated companies included in plan assets was ¥13,746 million
+($128 million) and ¥25,501 million at March 31, 2005 and
+2004, respectively.
+109

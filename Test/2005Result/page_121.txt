@@ -1,0 +1,113 @@
+Millions of Yen
+2004
+Before-Tax
+Amount
+Tax Benefit
+(Expense)
+Net-of-Tax
+Amount
+Foreign currency translation adjustments:
+Amount arising during the year on investments in foreign entities ............................................
+Reclassification adjustments for gains and losses realized
+¥ (16,306)
+20
+¥ (16,286)
+upon sale or liquidation of investments in foreign entities  .....................................................
+Net change in foreign currency translation adjustments during the year  ..................................
+(111)
+(16,417)
+(161)
+(141)
+(272)
+(16,558)
+Minimum pension liability adjustments  ..........................................................................................
+1,638 
+(844)
+794 
+Unrealized holding gains on securities:
+Amount arising during the year on available-for-sale securities ................................................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding gains on securities during the year  ......................................
+81,650 
+(8,260)
+73,390 
+(30,738)
+3,382 
+(27,356)
+50,912 
+(4,878)
+46,034 
+Unrealized holding losses on derivative instruments:
+Amount arising during the year on derivative instruments for cash flow hedges  ......................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding gains on derivative instruments during the year  ...................
+(1,891)
+5,698 
+3,807 
+667 
+(2,318)
+(1,651)
+(1,224)
+3,380 
+2,156 
+Other comprehensive income  .......................................................................................................
+¥ 62,418
+¥ (29,992)
+¥ 32,426
+Millions of Yen
+2003
+Before-Tax
+Amount
+Tax Benefit
+(Expense)
+Net-of-Tax
+Amount
+Foreign currency translation adjustments:
+Amount arising during the year on investments in foreign entities ............................................
+Reclassification adjustments for gains and losses realized
+¥ (19,931)
+(224)
+¥ (20,155)
+upon sale or liquidation of investments in foreign entities  .....................................................
+Net change in foreign currency translation adjustments during the year  ..................................
+(408)
+(20,339)
+—
+(224)
+(408)
+(20,563)
+Minimum pension liability adjustments  ..........................................................................................
+(1,474)
+785 
+(689)
+Unrealized holding losses on securities:
+Amount arising during the year on available-for-sale securities ................................................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding losses on securities during the year .....................................
+(36,825)
+6,411 
+(30,414)
+15,220 
+(2,633)
+12,587 
+(21,605)
+3,778 
+(17,827)
+Unrealized holding losses on derivative instruments:
+Amount arising during the year on derivative instruments for cash flow hedges  ......................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding gains on derivative instruments during the year  ...................
+(3,060)
+4,838 
+1,778 
+1,189 
+(2,032)
+(843)
+(1,871)
+2,806 
+935 
+Other comprehensive loss  ............................................................................................................
+¥ (50,449)
+¥ 12,305
+¥ (38,144)
+119

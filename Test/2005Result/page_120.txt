@@ -1,0 +1,147 @@
+17. Other Comprehensive Income (Loss)
+Change in accumulated other comprehensive income (loss) was as follows:
+Millions of Yen
+2005
+2004
+2003
+Millions of
+U.S. dollars
+2005
+Foreign currency translation adjustments:
+Balance at beginning of year  .............................................................
+Change for the year ...........................................................................
+Balance at end of year .......................................................................
+¥ (67,767)
+4,348 
+(63,419)
+¥ (51,209)
+(16,558)
+(67,767)
+¥ (30,646)
+(20,563)
+(51,209)
+$ (631)
+41 
+(590)
+Minimum pension liability adjustments:
+Balance at beginning of year  .............................................................
+Change for the year ...........................................................................
+Balance at end of year .......................................................................
+Unrealized holding gains on securities:
+Balance at beginning of year  .............................................................
+Change for the year ...........................................................................
+Balance at end of year .......................................................................
+Unrealized holding losses on derivative instruments:
+Balance at beginning of year  .............................................................
+Change for the year ...........................................................................
+Balance at end of year .......................................................................
+Accumulated other comprehensive loss:
+(634)
+(1,413)
+(2,047)
+45,653 
+7,093 
+52,746 
+(3,234)
+(288)
+(3,522)
+(1,428)
+794 
+(634)
+(381)
+46,034 
+45,653 
+(5,390)
+2,156 
+(3,234)
+(739)
+(689)
+(1,428)
+17,446 
+(17,827)
+(381)
+(6,325)
+935 
+(5,390)
+(6)
+(13)
+(19)
+425 
+66 
+491 
+(30)
+(3)
+(33)
+Balance at beginning of year  .............................................................
+Change for the year ...........................................................................
+Balance at end of year .......................................................................
+(25,982)
+9,740 
+¥ (16,242)
+(58,408)
+32,426 
+¥ (25,982)
+(20,264)
+(38,144)
+¥ (58,408)
+(242)
+91 
+$ (151)
+Tax effects allocated to each component of other comprehensive income (loss) and reclassification adjustments were as follows:
+Millions of Yen
+2005
+Before-Tax
+Amount
+Tax Benefit
+(Expense)
+Net-of-Tax
+Amount
+Foreign currency translation adjustments:
+Amount arising during the year on investments in foreign entities ...............................................
+Reclassification adjustments for gains and losses realized
+¥ 1,832
+(5)
+¥ 1,827
+upon sale or liquidation of investments in foreign entities  ........................................................
+Net change in foreign currency translation adjustments during the year  .....................................
+2,408 
+4,240 
+113 
+108 
+2,521 
+4,348 
+Minimum pension liability adjustments  ..........................................................................................
+(2,038)
+625 
+(1,413)
+Unrealized holding gains on securities:
+Amount arising during the year on available-for-sale securities ...................................................
+Reclassification adjustments for gains and losses realized in net income  ...................................
+Net change in unrealized holding gains on securities during the year  .........................................
+18,344 
+(11,329)
+7,015 
+(4,551)
+4,629 
+78 
+13,793 
+(6,700)
+7,093 
+Unrealized holding losses on derivative instruments:
+Amount arising during the year on derivative instruments for cash flow hedges  .........................
+Reclassification adjustments for gains and losses realized in net income  ...................................
+Net change in unrealized holding losses on derivative instruments during the year .....................
+(5,417)
+4,066 
+(1,351)
+2,665 
+(1,602)
+1,063 
+(2,752)
+2,464 
+(288)
+Other comprehensive income  .......................................................................................................
+¥ 7,866
+¥ 1,874
+¥ 9,740
+118

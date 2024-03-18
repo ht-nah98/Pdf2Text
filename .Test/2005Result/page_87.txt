@@ -1,0 +1,122 @@
+Risk Information
+ITOCHU is exposed to various risks such as market risks, credit
+risks and investment risks, due to the nature of a wide range of
+their business. These risks include unpredictable uncertainty
+and may have significant effects on their future business and
+financial performance. ITOCHU has enhanced their risk man-
+agement policy and risk management methodology to monitor
+and manage these risks, but it is impossible to completely avoid
+all these risks.
+With respect to descriptions about future event, ITOCHU
+appropriately determines its assumption and estimates based
+on information at the end of fiscal year 2005.
+(1) Corporate Result Risks Due to Macroeconomic Factors
+ITOCHU involves a wide variety of business ranging from supply
+of raw materials to manufacturing and sale in each of their busi-
+ness areas. ITOCHU conducts diverse types of commercial
+transactions such as purchase and sale of products in the
+domestic market as well as import/export trade between over-
+seas affiliates. Changes in the domestic economy and fluctua-
+tions in world economic environments can seriously affect
+ITOCHU’s results of operations.
+To give an overview of ITOCHU’s main areas of business, the
+domestic economy has a relatively strong influence on a con-
+sumer and retail-related segment such as textiles and food.
+Trade in machinery such as plants, autos and industrial machin-
+ery, trade in mineral resources, energy and chemical products
+and investments in development are all largely dependent on
+economic trends in the U.S. and Asia countries, which take the
+lead in the world economy. Furthermore, with the steady expan-
+sion of demand in China, one of ITOCHU’s priority markets,
+ITOCHU has conducted business and trade in China at a rapid
+pace for many areas of business. Consequently, Chinese eco-
+nomic trends have a possibility to seriously affect the financial
+position and results of operations of ITOCHU.
+(2) Market Risks
+ITOCHU is exposed to market risks such as foreign exchange
+rate risks, interest rate risks, commodity price risks and stock
+price risks. ITOCHU attempts to minimize risks related to mar-
+ket fluctuations such as changes in foreign exchange rates and
+interest rates by establishing risk management policy such as
+setting and controlling a limit and by utilizing a variety of deriva-
+tive instruments for hedging purposes. Reference should be
+made to the accounting policy for derivative instruments in note
+2, “Basis of Financial Statements and Summary of Significant
+Accounting Policies” and note 18, “Financial Instruments” to the
+consolidated financial statements. 
+Foreign Exchange Rate Risk
+The Company and certain Group companies are exposed to
+foreign exchange rate risk related to transactions denomi-
+nated in foreign currencies due to its significant involvement in
+import/export trading. ITOCHU is working to manage
+ITOCHU’s foreign currency balance by contract amount, debt
+and liabilities, the amount of ITOCHU’s own/other’s risk, and
+short/long-term and set limits on foreign exchange rate risks
+(limit of balance and that of loss). ITOCHU is also working to
+minimize foreign exchange rate risks using derivative transac-
+tions such as forward exchange contracts and currency
+swap contracts. However, ITOCHU cannot guarantee a com-
+plete avoidance of such foreign exchange rate risks by utiliz-
+ing derivative instruments.
+Since the Company is engaged in businesses involving for-
+eign currencies with a number of overseas trading sub-
+sidiaries and other overseas group companies, the figures
+denominated in Japanese yen on its consolidated balance
+sheets are also exposed to so-called foreign currency transla-
+tion risk. This translation risk has no impact on the perfor-
+mance of the business conducted in foreign currencies. In
+addition, a long period is generally needed to recover the
+amount of investments. Accordingly, the Company does not
+hedge the translation risk, as the term of effectiveness pro-
+vided by hedging is limited.
+Interest Rate Risk
+ITOCHU is exposed to interest rate risk in both fund raising
+and in its lending, investing, and operating activities. Interest
+rate risk refers to the risk of earnings fluctuation caused by
+changes to interest rates, when mismatches in interest rate
+sensitivity to assets/liabilities and durations occur. Interest
+rate risk, on the whole, consists of balance, magnitude of
+interest rate change, and duration. ITOCHU is working to
+quantify interest rate risks to control such risks in a concrete
+and objective manner. To be specific, using the management
+method Earnings at Risk (EaR), ITOCHU has set a certain limit
+(Loss Cut Limit) as the highest acceptable interest payment
+and has executed hedging transactions primarily in the form
+of interest rate swaps to minimize interest risk. However,
+ITOCHU still cannot guarantee a complete avoidance of inter-
+est rate risk, even having adopted these management meth-
+ods.
+Commodity Price Risk
+As a trading company handling a diverse array of commodi-
+ties, ITOCHU is exposed to commodity price risks due to
+such factors as market fluctuations. ITOCHU has established
+a fundamental risk management policy on an individual
+Division Company basis, assessing purchase contracts,
+inventories, and sales contracts, etc. and setting and manag-
+ing a balance limit and loss cut limit for each individual prod-
+uct and conducting periodic reviews. In addition, ITOCHU
+works to minimize commodity price risk by utilizing derivatives
+such as futures or forward contracts as means of hedging.
+Despite these measures, ITOCHU cannot guarantee a com-
+plete avoidance of commodity price risks.
+ITOCHU as well as certain Group Companies also partici-
+pate in resource development businesses such as the energy
+sector and other manufacturing businesses. Production in
+these businesses is also exposed to the same commodity
+price risks noted above, and it is possible for the value of the
+businesses to deteriorate. If this were to occur, it could seri-
+ously affect the financial position and results of operations of
+ITOCHU.
+Stock Price Risk
+ITOCHU holds available-for-sale securities which are vulnera-
+ble to price fluctuation. ITOCHU strives to maintain appropri-
+ate levels of investment and to minimize stock price risk by
+applying exit rules for inefficient investments that ITOCHU has
+little reason to hold. The fair value of the available-for-sale
+securities held by the Company and its subsidiaries was
+¥190.5 billion ($1,774 million) as of March 31, 2005.
+However, assuming that the price of these investments fluc-
+tuated and the fair value of these available-for-sale mar-
+ketable securities decreased, it could seriously affect the
+financial position and results of operations of ITOCHU.
+85

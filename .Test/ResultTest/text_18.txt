@@ -41,7 +41,6 @@ operating segments ...
 276 
 7,550 
 (19,610)
-—
 Total trading
 transactions ............... ¥829,873 ¥1,166,764 ¥634,491 ¥2,472,401
 39,079
@@ -67,12 +66,8 @@ Depreciation and
 ¥ 31,027
 ¥9,576,039
 ¥ 630,761
-¥
-¥
 1,188
 20,253
-¥
-¥
 10,018 ¥
 (9,278) ¥
 2,452
@@ -80,8 +75,6 @@ Depreciation and
 ¥
 (533)
 ¥ (3,867)
-¥
-¥
 31,764
 77,792
 ¥ 583,720
@@ -93,14 +86,10 @@ amortization ................... ¥
 1,835 ¥
 9,998 ¥
 3,297
-¥
 5,266
-¥
 5,710 ¥
 2,182
-¥
 7,796
-¥
 40,086
 Textile
 Machinery
@@ -140,15 +129,10 @@ $1,878
 $2,196 
 $98,086
 operating segments .....
-5 
-5 
 29 
-5 
 67 
-4 
 14 
 (129)
-—
 Total trading
 transactions .................
 Gross trading profit .............
@@ -179,23 +163,15 @@ $ 7,697
 $
 13 
 $ 145 
-$
-$
 49 
 179 
 $ (13)
 95 
 $
-$
-$
 229 
 684 
-$
-$
 20 
 210 
-$
-$
 87 
 153 
 $ (559)
@@ -218,23 +194,14 @@ $4,989
 $44,655
 Depreciation and
 amortization......................
-$
 38
-$
 40 
-$
 58 
-$
 165 
-$
 41 
-$
 68 
-$
 14 
-$
 54 
-$
 478
 Note: 1. “Other, Adjustments & Eliminations” includes trading transactions, gross trading profit, equity in earnings (losses) of associated companies,
 net income (loss), identifiable assets not allocated to the specified operating segments in domestic and foreign areas, eliminations and adjust-
@@ -242,20 +209,3 @@ ments, etc.
 2. Net income (loss) in “Energy, Metals & Minerals” for the year ended March 31, 2006 includes (¥3,439) million (($29) million) on net-of-tax
 basis of the cumulative effect of an accounting change resulting from early adoption of EITF 04-6, “Accounting for Stripping Costs Incurred
 during Production in the Mining Industry.”
-n
-o
-i
-t
-c
-e
-S
-l
-a
-i
-c
-n
-a
-n
-i
-F
- 

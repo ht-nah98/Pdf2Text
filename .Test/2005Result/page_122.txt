@@ -1,0 +1,122 @@
+Millions of U.S. dollars
+2005
+Before-Tax
+Amount
+Tax Benefit
+(Expense)
+Net-of-Tax
+Amount
+Foreign currency translation adjustments:
+Amount arising during the year on investments in foreign entities ............................................
+Reclassification adjustments for gains and losses realized
+$ 17
+$ (0)
+$ 17
+upon sale or liquidation of investments in foreign entities  .....................................................
+Net change in foreign currency translation adjustments during the year  ..................................
+23 
+40 
+Minimum pension liability adjustments  ..........................................................................................
+(19)
+Unrealized holding gains on securities:
+Amount arising during the year on available-for-sale securities ................................................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding gains on securities during the year  ......................................
+170 
+(105)
+65 
+Unrealized holding losses on derivative instruments:
+Amount arising during the year on derivative instruments for cash flow hedges  ......................
+Reclassification adjustments for gains and losses realized in net income  ................................
+Net change in unrealized holding losses on derivative instruments during the year ..................
+(51) 
+38
+(13)
+(42)
+43 
+1 
+25
+(15) 
+10 
+24 
+41 
+(13)
+128 
+(62)
+66 
+(26) 
+23
+(3)
+Other comprehensive income  .......................................................................................................
+$ 73
+$ 18
+$ 91
+18. Financial Instruments
+(1) Derivative Instruments and Hedging Activities
+The Company and certain subsidiaries operate internationally
+and are exposed to market risks arising from changes in for-
+eign exchange rates, interest rates and commodity prices. The
+Company and its subsidiaries utilize certain derivative instru-
+ments principally in order to reduce these market risks.
+The Company and certain subsidiaries have various deriva-
+tive instruments, which are exposed to credit losses in the
+event of non-performance by counterparties. The Company
+and its subsidiaries seek to minimize credit risk by entering
+into contracts only with major counterparties as well as avoid-
+ing concentration with certain counterparties or groups of
+counterparties. The policies of the Company and its sub-
+sidiaries prescribe monitoring of creditworthiness and expo-
+sure on a counterparty-by-counterparty basis.
+Foreign Exchange Rate Risk Management
+The Company and certain subsidiaries have assets and liabilities
+which are exposed to foreign exchange rate risks. In order to
+hedge the risks, mainly between the U.S. dollar and Japanese
+yen, the Company and its subsidiaries enter into foreign
+exchange contracts (including currency swap agreements).
+These contracts are primarily used to fix future net cash
+flows from recognized receivables and payables and unrecog-
+nized firm commitments denominated in foreign currencies.
+The Company and its subsidiaries establish the amounts of
+net future cash flows for each currency by due dates and
+enter into foreign exchange contracts (including currency
+swap agreements) for certain portion of net future cash flows.
+Most hedging relationships between the derivative financial
+instruments and hedged items are highly effective in offsetting
+impacts resulting from changes in foreign exchange rates.
+Interest Rate Risk Management
+The Company and certain subsidiaries are exposed to risks
+of variability in future cash outflow or fluctuations in fair value
+mainly on debt obligations. In order to manage these risks,
+the Company and its subsidiaries enter into interest rate
+swap agreements.
+Interest rate swaps are used primarily to convert floating
+rate debt to fixed rate debt and to convert fixed rate debt to
+floating rate debt.
+Most hedging relationships between the derivative financial
+instruments and hedged items are highly effective in offsetting
+changes in cash flows or fair values resulting from changes in
+interest rates.
+Commodity Price Risk Management
+The Company and certain subsidiaries utilize commodity
+derivative instruments for commodities, such as crude oil and
+grain, principally to hedge fluctuations in cash flows or fair val-
+ues due to changes in commodity prices.
+Most hedging relationships between the commodity deriva-
+tive instruments and hedged items are highly effective in off-
+setting changes in cash flows or fair values resulting from
+changes in commodity prices.
+Risk Management Policy
+The Company and its subsidiaries manage foreign exchange
+rate risks, interest rate risks and commodity price risks by
+continuously monitoring the movements and by seeking hedg-
+ing opportunities to reduce such risks.
+The Company and its subsidiaries set the limits for derivative
+instruments based on the purpose of holding these instruments.
+The risk management policies of the Company and its sub-
+sidiaries state that derivative instruments for the most part are
+held for hedging purposes.
+The risk management policies including objectives and
+strategies for undertaking derivative instruments are docu-
+mented, and the Company and its subsidiaries make a formal
+assessment at the hedge’s inception and quarterly on an on-
+120

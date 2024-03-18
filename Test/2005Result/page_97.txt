@@ -1,0 +1,109 @@
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ITOCHU Corporation and Subsidiaries
+1. Nature of Operations
+ITOCHU Corporation (the “Company”) is a “sogo shosha” or
+general trading company. The Company and its subsidiaries
+purchase, distribute and market a wide variety of commodities
+including raw materials, capital goods and consumer goods,
+whether for Japanese domestic trade, trade between Japan
+and other nations or trade between third-party nations.
+The Company and its subsidiaries not only operate worldwide
+through trading in various commodities but also provide various
+services, such as financing arrangements for customers and
+suppliers, planning and coordinating industrial projects, func-
+tioning as an organizer and gathering extensive information. In
+addition, the Company and its subsidiaries operate in a wide
+range of business activities — developing market potential, pro-
+viding services for logistics and transportation and for informa-
+tion and communications, engaging in construction, developing
+resources, investing in the growing high-technology and multi-
+media fields and promoting environmental protection.
+2. Basis of Financial Statements and Summary of Significant Accounting Policies
+(1) Basis of Financial Statements
+The accompanying consolidated financial statements are
+stated in Japanese yen, the currency of the country in which
+the Company is incorporated and principally operates. The
+translation of Japanese yen amounts into U.S. dollar amounts
+for the year ended March 31, 2005 is included solely for the
+convenience of readers outside Japan and has been made at
+the rate of ¥107.39=U.S.$1 (the official rate as of March 31,
+2005 announced by The Bank of Tokyo-Mitsubishi, Ltd.). The
+translation should not be construed as a representation that
+the Japanese yen amounts could be converted into U.S. dol-
+lars at the above or any other rate.
+The accompanying consolidated financial statements have
+been prepared in accordance with accounting principles gen-
+erally accepted in the United States of America (“U.S. GAAP”).
+Because the Company and its subsidiaries maintain their
+records and prepare their financial statements in accordance
+with accounting principles prevailing in the countries of incor-
+poration, all necessary adjustments have been made to con-
+form to U.S. GAAP. The major adjustments include those
+relating to the valuation of certain investment securities,
+deferred gains on sales of property, pension costs, amortiza-
+tion of intangible assets and goodwill and derivative instru-
+ments and hedging activities.
+(2) Summary of Significant Accounting Policies
+a. Basis of Consolidation
+The consolidated financial statements include the accounts of
+the Company and its directly or indirectly majority-owned
+domestic and foreign subsidiaries.
+In accordance with Financial Accounting Standards Board
+(“FASB”) Interpretation (“FIN”) 46 “Consolidation of Variable
+Interest Entities” (revised December 2003) (“FIN 46R”), which
+defines those entities whose equity has specified characteris-
+tics as variable interest entities, the Company and its sub-
+sidiaries consolidate variable interest entities, where it is
+concluded that they are primary beneficiaries and will absorb a
+majority of the entity’s expected losses, receive a majority of
+the entity’s expected residual returns, or both.
+The accounts of the subsidiaries are included on the basis
+of their respective fiscal periods which end primarily on March
+31 or within three months prior to March 31. Significant trans-
+actions occurring between the subsidiaries’ fiscal year-ends (if
+not March 31) and March 31 are properly adjusted in the con-
+solidated financial statements.
+The determination of whether an entity is recognized as a
+consolidated subsidiary is based on the Company’s owner-
+ship of voting shares including consideration of any shares
+contributed to the pension trusts. Although the Company
+retains the rights to vote the contributed shares, the rights to
+dispose of such shares are executed by the trustee. The
+equity in contributed shares to the pension trust is included in
+minority interests in the consolidated financial statements.
+b. Foreign currency translation
+Foreign currency financial statements have been translated in
+accordance with Statement of Financial Accounting Standards
+(“SFAS”) 52, “Foreign Currency Translation.” Pursuant to this
+statement, the assets and liabilities of foreign subsidiaries and
+associated companies are translated into Japanese yen at the
+respective year-end exchange rates. All income and expense
+accounts are translated at average rates of exchange. The
+resulting foreign currency translation adjustments, net of tax,
+are included in “Accumulated other comprehensive income
+(loss).” Foreign currency receivables and payables are trans-
+lated into Japanese yen at year-end exchange rates and the
+resulting foreign exchange gains and losses are recognized
+and included in “Other-net” in the consolidated statements of
+operations.
+c. Cash Equivalents
+For the purpose of the consolidated statements of cash flows,
+the Company and its subsidiaries define cash equivalents as
+short-term (original maturities of three months or less), highly
+liquid investments which are readily convertible to cash and
+have insignificant risk of changes in value, including short-term
+time deposits.
+d. Inventories
+Inventories are stated at the lower of cost, determined princi-
+pally by the specific identification method, or market.
+e. Marketable Securities and Other Investments
+In accordance with SFAS 115, “Accounting for Certain
+Investments in Debt and Equity Securities,” the Company and
+its subsidiaries classify certain investments included in
+“Marketable securities” and “Other investments” by the ability
+and intent as held-to-maturity, trading or available-for-sale
+securities, and report held-to-maturity securities at amortized
+cost, trading securities at fair value with unrealized holding
+gains and losses included in earnings, and available-for-sale
+securities at fair value with unrealized holding gains and losses
+95
