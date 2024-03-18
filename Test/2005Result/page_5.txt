@@ -90,5 +90,5 @@ Ratio of Stockholders’ Equity to Total Assets (right)
 ’03 
 Adjusted Profit (Left)
 Ratio of Adjusted Profit toTotal Assets (right)
-’05 
 ’04 
+’05 

@@ -1,7 +1,7 @@
 
 import os
 from pdf2image import convert_from_path
-
+from PIL import Image
 def pdf_to_images(pdf_path, output_folder):
     """
     Convert a PDF to images and save them in the output folder.
@@ -28,7 +28,19 @@ output_folder = './all'  # Folder where the images will be saved
 pdf_to_images(pdf_path, output_folder)
 
 
+def png_to_pdf(png_file, pdf_file):
+    try:
+        image = Image.open(png_file)
+        # Convert RGBA images (with transparency) to RGB
+        if image.mode == 'RGBA':
+            image = image.convert('RGB')
+        image.save(pdf_file, "PDF", resolution=100.0)
+        print(f"Conversion successful: {png_file} converted to {pdf_file}")
+    except Exception as e:
+        print(f"Error: {e}")
 
+# Example usage:
+png_to_pdf("./all/2016/page_19.pdf", "./all/page_27-2003.pdf")
 
 
 
