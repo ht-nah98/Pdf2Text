@@ -186,5 +186,3 @@ Data analysis
 *6 BI solutions: Problem-solving through the use of Business-Intelligence tools
 70
 71
- 
- 

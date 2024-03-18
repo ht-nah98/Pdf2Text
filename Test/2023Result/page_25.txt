@@ -10,25 +10,6 @@ FYE 2023 Results
 Consolidated net profit
 ¥700.0 billion
 ¥800.5 billion
-s
-t
-e
-g
-r
-a
-T
-e
-v
-i
-t
-a
-t
-i
-t
-n
-a
-u
-Q
 Cash flows
 NET DER
 ROE
@@ -94,24 +75,6 @@ Others
 •  Newly established a cybersecurity company to strengthen the Group’s cybersecurity measures
 •  Obtained the highest score among all industries in the FTSE ESG assessment.  
 Maintained the No. 1 ESG investment amount among the trading companies by the GPIF
-s
-t
-e
-g
-r
-a
-T
-e
-v
-i
-t
-a
-t
-i
-l
-a
-u
-Q
 46
 Business Results
 (Billions of yen)
@@ -317,24 +280,3 @@ Results
  Total shareholders’ equity 
  NET DER (Times)
 47
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 

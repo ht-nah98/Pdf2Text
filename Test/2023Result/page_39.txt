@@ -1,18 +1,13 @@
 PEST Analysis (Macroenvironmental Factors through 2030)
-P
 Political/Legal
-E
 Economical
-S
 Social/Cultural
-T
 Technological
 The ITOCHU Group’s business environment is changing, and uncertainties are increasing. Through PEST analysis, we 
 fully assess risks and opportunities in the context of macroenvironmental factors—such as economic recession risks, 
 geopolitical risks, and responses to the SDGs—and build an even stronger competitive edge by implementing flexible 
 measures and transforming businesses in response to changes in the times and the business environment.
 How to understand this page
-E
 Stagnation of the Global Economy — Related NFC:  Business Know-How   Business Portfolio   Client and Partner Assets
 Risks
 Opportunities
@@ -55,7 +50,6 @@ nity is greater than that of risk, and the degree of effect
 the near- to medium-term, despite uncertainty. 
 Moreover, this represents instances where the long-
 term outlook is difficult to predict.
-P
 Political Trends — Related NFC:  Business Portfolio   Client and Partner Assets   Natural Resources
 Risks
 Opportunities
@@ -111,7 +105,6 @@ With the actualization of geopolitical risks, policies focus more on ongoing int
 citizens’  livelihoods. We will develop businesses amid the demand for appropriate corporate responses.
 With economic growth of developed countries slowing as populations level off and the gap in economic growth potential widening among 
 emerging countries, we will determine the correct balance between growth fields and fields that will peak out.
-S
 Risks
 Opportunities
 Responding to Climate Change (Decarbonization) — Related NFC:  Business Know-How   Business Portfolio   Client and Partner Assets   Natural Resources   Relationships with Society
@@ -163,7 +156,6 @@ inflow of  investment funds; addition to investment targets;
 increase in stock prices
 Based on our corporate mission of “Sampo-yoshi,” we will advance solutions to social issues by providing products and services that  
 meet customer needs, creating new businesses, and replacing assets.
-T
 Changes in Business Models Caused by Technological Innovation — Related NFC:  Human and Organizational Capital   Business Know-How   Business Portfolio   Client and Partner Assets   Relationships with Society
 Risks
 Opportunities

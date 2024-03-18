@@ -182,7 +182,6 @@ Female employees as a percentage of employees
 Percentage of employees working in Morning-Focused 
 Working System*3
 Monthly average overtime hours (Hours / Monthly)*4
-—
 23.4
 40%
 22.7
@@ -207,9 +206,7 @@ Percentage for screening among people targeted for
 1%
 50
 723
-—
 44%
-2
 554
 34%*5
 10
@@ -217,7 +214,6 @@ Percentage for screening among people targeted for
 52%
 36
 570
-—
 96.2%
 93.1%
 Rate of complication medical checkup reexamination
@@ -302,5 +298,3 @@ Management
 (without taking childcare leave) while working from home.
 *6  Includes the personnel and various other costs associated with conducting healthcare management for employees.
 35
- 
- 

@@ -34,7 +34,6 @@ Machinery Company
 (0.8)
 (2.8)
 1.6
-—
 (1.7)
 (8.2)
 0.9
@@ -42,7 +41,6 @@ Machinery Company
 0.7
 1.7
 2.7
-—
 1.6
 0.5
 2.0
@@ -104,7 +102,6 @@ Metals & Minerals Company
 1.5
 4.6
 1.2
-—
 0.5
 2.4
 16.0
@@ -116,7 +113,6 @@ Metals & Minerals Company
 1.6
 9.7
 2.7
-—
 1.0
 3.7
 4.1
@@ -166,7 +162,6 @@ ITOCHU Property Development, Ltd.
 ITOCHU Urban Community Ltd.
 100.0%
 95.2% / 100.0%
-—
 100.0%
 36.3%
 100.0%
@@ -202,7 +197,6 @@ ITOCHU Urban Community Ltd.
 3.8
 1.5
 6.5
-—
 1.9
 0.8
 5.6
@@ -227,7 +221,6 @@ A2 Healthcare Corporation
 HOKEN NO MADOGUCHI GROUP INC.
 61.2%
 40.7%
-—
 63.0%
 100.0%
 92.0%
@@ -252,7 +245,6 @@ The 8th Company
 3.4
 1.3
 (9.5)
-—
 1.5
 4.0
 4.3
@@ -264,7 +256,6 @@ The 8th Company
 2.2
 4.0
 1.9
-—
 2.5
 4.8
 4.0
@@ -285,13 +276,9 @@ The 8th Company
 12.0
 2.5
 2.0
-—
 4.2
-—
-—
 2.3
 2.2
-—
 Billions of yen
 ITOCHU Minerals & Energy of Australia Pty Ltd
 100.0%
@@ -320,8 +307,6 @@ ITOCHU Metals Corporation*3
 8.9
 47.8
 3.0
-—
-—
 3.0
 Energy & Chemicals Company 
 Ownership %*1
@@ -344,7 +329,6 @@ Food Company
 100.0%
 54.0%
 25.0%
-—
 100.0%
 60.0% / 100.0%
 55.7%
@@ -375,7 +359,6 @@ Food Company
 4.8
 1.6
 7.3
-—
 7.5
 7.4
 5.4
@@ -407,7 +390,6 @@ HYLIFE GROUP HOLDINGS LTD.
 49.9%
 4.4
 2.4
-—
 1.4
 5.6
 2.0
@@ -415,7 +397,6 @@ HYLIFE GROUP HOLDINGS LTD.
 8.4
 17.1
 4.5
-—
 2.2
 4.0
 2.7
@@ -435,7 +416,6 @@ HYLIFE GROUP HOLDINGS LTD.
 1.1
 3.6
 2.7
-—
 Breakdown of Profits / Losses from Major Group Companies
 FamilyMart Co., Ltd.*9
 NIPPON ACCESS, INC.*3
@@ -464,27 +444,6 @@ ITOCHU PULP & PAPER CORPORATION*3
 0.4
 0.1
 0.1
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
 Others, Adjustments & Eliminations 
 Ownership %*1
 FYE 2021
@@ -509,8 +468,6 @@ Chia Tai Enterprises International Limited
 (4.3)
 (2.4)
 103.3
-—
-—
 *1 Indicated ownership percentages are as of June 30, 2023.
 *2 “FYE 2024 (Plan)” indicates initial plans disclosed on May 9, 2023.
 *3  On July 1, 2019, The 8th Company was established, and ITOCHU began mutual holdings in which The 8th Company was the minority shareholder and 

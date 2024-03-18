@@ -87,12 +87,7 @@ Share Price-Linked
 Bonuses
 Stock 
 Remuneration
-6
-4
 10
-3
-3
-6
 2,964
 81
 3,045
@@ -106,23 +101,11 @@ Remuneration
 60
 172
 1,825
-—
 1,825
-—
-—
-—
 168
-—
 168
-—
-—
-—
 390
-—
 390
-—
-—
-—
 Type
 Inside
 Outside
@@ -166,9 +149,6 @@ Executive
 Officers
 10
 7.5
-5
-4
-3
 2.2
 Of the amount paid to an individual Director, the portion corre-
 sponding to A and B is paid entirely in cash. In regard to the por-
@@ -249,7 +229,6 @@ stock remuneration
 (2) Performance-linked 
 bonuses
 (1) Monthly remuneration
-0
 100
 200
 300
@@ -261,4 +240,3 @@ bonuses
 Consolidated net profit 
 (Billions of yen)
 93
- 

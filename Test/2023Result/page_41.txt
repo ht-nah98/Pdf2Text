@@ -103,14 +103,12 @@ Analysis According to Consolidated Net Profit (%)
 Analysis According to Gross Trading Profit (%)
 移行リスクが主な課題となる事業　EBITDA 指数による分析
 移行リスクが主な課題となる事業　EBITDA 指数による分析
-0
 20
 40
 60
 80
 100
 120
-0
 20
 40
 60
@@ -120,45 +118,6 @@ Analysis According to Gross Trading Profit (%)
 Business environment under 
 the scenario  
 Business impact assessment
-s
-e
-i
-t
-i
-n
-u
-t
-r
-o
-p
-p
-o
-d
-n
-a
-s
-k
-s
-R
-i
-s
-t
-c
-e
-f
-f
-e
-d
-n
-a
-s
-e
-r
-u
-s
-a
-e
-M
 Current situation
 The stable supply of 
 low-carbon emis-
@@ -195,45 +154,6 @@ where we import crops
 Capture demand for 
 low-carbon-related 
 products
-s
-e
-i
-t
-i
-n
-u
-t
-r
-o
-p
-p
-o
-d
-n
-a
-s
-k
-s
-R
-i
-s
-t
-c
-e
-f
-f
-e
-d
-n
-a
-s
-e
-r
-u
-s
-a
-e
-M
 After taking the 
 measures
 Adaptation / mitigation 
@@ -260,11 +180,3 @@ change risks are evaluated and examined during the investment decision-making pr
 charge of risk management is responsible for constructing a consolidated basis to identify, evaluate, manage, and moni-
 tor risks.
 79
- 
- 
- 
- 
- 
- 
- 
- 

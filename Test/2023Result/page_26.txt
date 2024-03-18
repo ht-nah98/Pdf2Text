@@ -143,7 +143,6 @@ profit stage
 600
 400
 200
-0
 (FYE)
 14
 15
@@ -259,4 +258,3 @@ as they are subject to negotiation with individual customers and vary by ore typ
 *4 The above sensitivities vary according to changes in sales volume, foreign exchange rates, production cost, etc.
 48
 49
- 

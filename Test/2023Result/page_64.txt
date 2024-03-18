@@ -212,12 +212,7 @@ Cash and cash equivalents at the
 544,009 
 611,715 
 4,581 
-—
-—
-—
 44,331 
-—
-—
 432,140 
 572,030 
 611,223 
@@ -229,13 +224,8 @@ Cash and cash equivalents at the
 17,280 
 30,281 
 10,116 
-—
-—
 (44,331)
-—
-—
 76 
-—
 ¥ 572,030 
 ¥ 611,223 
 ¥ 544,009 
@@ -258,7 +248,6 @@ $ 4,538
 (345,047)
 (79,726)
   Repayments of lease liabilities*  
-—
 (267,193)
 251,606 
 (277,493)
@@ -493,7 +482,6 @@ $5,778.0
 82.4 
 90.9 
 88.6
-—
 2019
 ¥3,690.1 
 2,267.7 
@@ -528,18 +516,3 @@ Shareholders’ equity
 amount of “Repayments of lease liabilities” for the Fiscal Year ended March 31, 2019 is not reclassified.
 124
 125
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 

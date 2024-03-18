@@ -1,5 +1,4 @@
 ESG Data
-E
 Environment  
 GHG Emissions (Consolidated)
 (Thousand t-CO2e) 
@@ -67,10 +66,6 @@ FYE 2022 FYE 2023
 FYE 2021
 FYE 2022
 FYE 2023
-0
-6
-—
-—
 —
 —
 —
@@ -80,10 +75,6 @@ FYE 2023
 90
 0
 93.4%
-0
-6
-—
-—
 —
 —
 —
@@ -93,10 +84,6 @@ FYE 2023
 115
 0
 93.7%
-0
-6
-—
-—
 —
 —
 —
@@ -145,7 +132,6 @@ FYE 2023
 45,121
 640
 —
-S
 Society  
 Consolidated employees (People)
 Non-consolidated employees (People)
@@ -261,7 +247,6 @@ FYE 2023
 employees (excluding listed subsidiaries conducting surveys independently).
 *1  Scope3 disclosure has been limited to certain categories in light of international discussions on appropriate emissions management and disclosure.
  For details on the basis of emissions calculation methods used in each category, please refer to ITOCHU’s website. 
-G
 Governance  
  https://www.itochu.co.jp/en/csr/data/
 *2  GHG emissions, electricity consumption, and water withdrawal are the totals for domestic bases. Waste volume 
@@ -308,22 +293,18 @@ Board Members (Share)
 4 (40.0%)
 2 (20.0%)
 5.7 years
-5
 11
 4 (36.4%)
 2 (18.2%)
 6.3 years
-5
 10
 4 (40.0%)
 2 (20.0%)
 5.6 years
-5
 10
 4 (40.0%)
 2 (20.0%)
 5.6 years
-5
 3 (60.0%)
 3 (60.0%)
 3 (60.0%)
@@ -355,4 +336,3 @@ Third-party assurance
   https://www.itochu.co.jp/en/csr/pdf/independent_assurance_report_e.pdf
 116
 117
- 

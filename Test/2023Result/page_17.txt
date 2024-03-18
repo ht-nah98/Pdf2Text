@@ -18,13 +18,11 @@ Consolidated net profit (loss) (right)
 6,000
 4,000
 2,000
-0
 (Billions of yen)
 800
 600
 400
 200
-0
 (FYE)
 96
 01
@@ -181,5 +179,3 @@ Women’s Advancement Committee established
 1.08
 22 (FYE)
 31
- 
- 

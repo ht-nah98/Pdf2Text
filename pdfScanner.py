@@ -116,8 +116,8 @@ def extract_text_from_pdfs(pdf_folder, output_folder):
 #     except Exception as e:
 #         print(f"Error: {e}")
 # Call the function with the desired input and output folders
-pdf_folder = "./Test"
-output_folder = "./Test/ResultTest"
+pdf_folder = "./all/2023"
+output_folder = "./Test/2023Result"
 # pdf_file = './all/2023_txt.pdf'
 # Example usage:
 # extract_pages(pdf_file, pdf_folder)
