@@ -1,0 +1,416 @@
+2019
+2020
+2021
+2022
+2023
+Millions of yen
+Millions of  
+U.S. dollars
+2023
+Liabilities and Equity  As of March 31
+2019
+2020
+2021
+2022
+2023
+Millions of yen
+Millions of  
+U.S. dollars
+2023
+Consolidated Financial Statements
+Consolidated Statement of Financial Position
+Assets  As of March 31
+Current assets
+  Cash and cash equivalents  
+¥     572,030
+¥     611,223
+¥     544,009
+¥     611,715 
+¥     606,002 
+$  4,538 
+  Time deposits  
+5,051
+8,858
+9,945
+11,185 
+9,467 
+71 
+  Trade receivables  
+2,397,608
+2,113,746
+2,122,815
+2,458,991 
+2,533,297 
+18,972 
+  Other current receivables  
+168,968
+176,691
+166,282
+236,864 
+243,043 
+  Other current financial assets  
+43,132
+45,315
+44,930
+101,932 
+73,336 
+Inventories  
+937,183
+952,029
+898,692
+1,077,160 
+1,304,942 
+  Advances to suppliers  
+98,081
+89,425
+80,521
+123,382 
+142,862 
+  Other current assets  
+185,767
+135,774
+161,256
+188,727 
+208,419 
+  Assets held for sale  
+—
+—
+248,861
+—
+—
+1,820 
+549 
+9,773 
+1,070 
+1,561 
+—
+Total current assets  
+4,407,820
+4,133,061
+4,277,311
+4,809,956 
+5,121,368 
+38,354 
+Non-current assets
+ Investments accounted for by  
+  the equity method  
+1,559,280
+1,640,286
+1,867,777
+2,288,762 
+2,825,102 
+21,157 
+  Other investments  
+857,261
+816,518
+952,374
+958,218 
+943,270 
+  Non-current receivables  
+618,762
+660,578
+658,658
+728,965 
+805,159 
+7,064 
+6,030 
+ Non-current financial assets other  
+  than investments and receivables  
+270,116
+172,417
+166,611
+172,191 
+162,768 
+1,219 
+ Property, plant and equipment  
+1,077,874
+2,137,474
+1,939,791
+1,936,044 
+1,998,485 
+14,967 
+ Investment property  
+32,524
+58,595
+50,665
+47,742 
+44,050 
+ Goodwill  
+391,560
+403,940
+396,869
+368,989
+366,659
+ Intangible assets  
+736,200
+759,167
+728,967
+712,618
+712,594
+ Deferred tax assets  
+ Other non-current assets  
+65,609
+81,697
+61,051
+76,511
+60,446
+78,963
+54,639 
+75,534 
+54,478 
+77,719 
+330 
+2,746
+5,336
+408 
+582 
+Total non-current assets  
+5,690,883
+6,786,537
+6,901,121
+7,343,702 
+7,990,284 
+59,839 
+  Other current financial liabilities  
+  Current tax liabilities  
+  Advances from customers  
+  Other current liabilities  
+  Liabilities held for sale  
+Total current liabilities  
+Non-current liabilities
+ Long-term debentures  
+  and borrowings  
+ Other non-current  
+  financial liabilities  
+ Non-current liabilities for  
+  employee benefits  
+  Deferred tax liabilities  
+  Other non-current liabilities  
+Current liabilities
+ Short-term debentures  
+  and borrowings  
+¥     650,909 
+¥     684,406 
+¥     710,213 
+¥     522,448 
+¥     659,710 
+$  4,941 
+  Lease liabilities (short-term)  
+—
+242,076 
+238,446 
+235,791 
+238,289 
+  Trade payables  
+1,942,037 
+1,707,472 
+1,628,766 
+1,967,117 
+2,042,608 
+  Other current payables  
+234,518 
+215,175 
+199,757 
+210,857 
+27,073 
+48,014 
+88,480 
+35,699 
+67,074 
+81,799 
+350,343 
+368,163 
+—
+—
+40,172 
+57,370 
+84,699 
+374,489 
+220,722 
+83,724 
+74,026 
+132,513 
+424,071 
+—
+190,014 
+71,642 
+118,109 
+162,409 
+462,044 
+—
+3,341,374 
+3,401,864 
+3,554,634 
+3,650,547 
+3,944,825 
+29,543 
+  Lease liabilities (long-term)  
+—
+937,345 
+825,170 
+775,180 
+766,278 
+2,332,928 
+2,192,557 
+2,445,099 
+2,383,455 
+2,346,928 
+215,609 
+68,900 
+53,483 
+58,217 
+56,543 
+423 
+124,418 
+251,489 
+142,769 
+133,138 
+200,912 
+144,273 
+116,631 
+150,275 
+162,900 
+103,975 
+250,999 
+167,585 
+96,942 
+273,123 
+163,386 
+Total non-current liabilities  
+3,067,213 
+3,677,125 
+3,753,558 
+3,739,411 
+3,703,200 
+Total liabilities  
+6,408,587 
+7,078,989 
+7,308,192 
+7,389,958 
+7,648,025 
+Equity
+  Common stock  
+  Capital surplus  
+  Retained earnings  
+Other components of equity
+  Translation adjustments  
+  FVTOCI financial assets  
+  Cash flow hedges  
+  Total other components of equity  
+  Treasury stock  
+253,448 
+49,584 
+253,448 
+50,677 
+253,448 
+(155,210)
+253,448 
+(161,917)
+253,448 
+(169,322)
+2,608,243 
+2,948,135 
+3,238,948 
+3,811,991 
+4,427,244 
+81,037 
+49,764 
+433 
+131,234 
+(105,601)
+(37,836)
+(31,972)
+(19,163)
+(88,971)
+(167,338)
+131,612 
+38,740 
+(9,897)
+160,455 
+(181,360)
+383,215 
+146,638 
+7,154 
+537,007 
+(241,204)
+458,560 
+120,681 
+30,840 
+610,081 
+(301,940)
+Total shareholders’ equity  
+2,936,908 
+2,995,951 
+3,316,281 
+4,199,325 
+4,819,511 
+  Non-controlling interests  
+753,208 
+844,658 
+553,959 
+564,375 
+644,116 
+Total equity  
+3,690,116 
+3,840,609 
+3,870,240 
+4,763,700 
+5,463,627 
+1,785 
+15,297 
+1,423 
+537 
+884 
+1,216 
+3,460 
+—
+17,576 
+5,739 
+726 
+2,045 
+1,224 
+27,733 
+57,276 
+1,898 
+(1,268)
+33,155 
+3,434 
+904 
+231 
+4,569 
+(2,261)
+36,093 
+4,824 
+40,917 
+Total assets  
+¥10,098,703
+¥10,919,598
+¥11,178,432
+¥12,153,658 
+¥13,111,652
+$98,193
+Total liabilities and equity  
+¥10,098,703 
+¥10,919,598 
+¥11,178,432 
+¥12,153,658 
+¥13,111,652
+$98,193
+120
+121
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,110 @@
+Risk Management
+ITOCHU is exposed to various risks such as market risks, credit
+risks and investment risks, due to the nature of its business.
+These risks include unpredictable events that may have adverse
+effects on its future business and financial performance. ITOCHU
+has enhanced its risk management system and risk management
+methods to monitor and manage these risks. 
+Since the introduction of a “Division Company System” in 1997,
+ITOCHU has reinforced the concept of self-management in which
+each Division Company manages the risks associated with
+individual projects, while the Headquarters has continued to
+develop sophisticated risk management methods. ITOCHU has
+also established the ALM (Asset Liability Management)
+Committee as an advisory body to the HMC (Headquarters
+Management Committee), the highest decision-making body in
+ITOCHU. The ALM Committee plays a central role in managing
+the balance sheets of the whole ITOCHU Group and proposing
+improvements, and in analyzing the risk management across
+ITOCHU and proposing various risk management methods and
+improvements. Specifically, it manages risk exposure for each
+individual product and service by setting internal covenants for
+major balance sheet items and segmenting products and
+services in detail to set exposure limits, criteria to undertake, and
+standards for return.
+Furthermore, ITOCHU has introduced RCM (Risk Capital
+Management), a risk management method based on RAROC
+(Risk-adjusted Return on Capital) to thoroughly manage its
+business portfolio through the utilization of two management
+benchmark: Risk Assets and Risk Return Index.  
+Market Risks
+ITOCHU is exposed to market risks such as foreign exchange
+rate risk, interest rate risk, commodity price risk and stock price
+risk. ITOCHU aims to minimize risks relating to market
+fluctuations such as changes in foreign exchange rates and
+interest rates by establishing a risk management system using
+balance limit and other such measures and by utilizing a variety of
+derivative instruments for hedging purposes. Please refer to
+ITOCHU’s accounting policy for derivative instruments in notes to
+consolidated financial statements “2. Summary of Significant
+Accounting Policies” and “19. Financial Instruments.” 
+Foreign Exchange Rate Risk
+ITOCHU is exposed to foreign exchange rate risk regarding
+transactions denominated in foreign currencies due to its
+significant involvement in import/export trading. ITOCHU uses
+forward exchange contracts and currency swap contracts to
+minimize risks for these transactions. Also, to manage foreign
+currency balance, ITOCHU sets limits on foreign exchange rate
+risks (limit of balance and that of loss), whereby it manages its
+balance of foreign currency by contract amount, the amount of
+its own/others’ risk, and short-term/long-term. Since ITOCHU
+engages in businesses involving foreign currencies with a
+number of overseas trading subsidiaries and other overseas
+group subsidiaries, the figures denominated in Japanese yen on
+its consolidated balance sheet are also exposed to so-called
+foreign currency translation risk. ITOCHU does not hedge the
+translation risk, which does not have an impact on its financial
+and business performance denominated in foreign currencies.  
+66 | ITOCHU Corporation.
+Interest Rate Risk
+ITOCHU is exposed to interest rate risk in fund raising or using
+by its lending, investing, and operating activities. Interest rate
+risk refers to the risk of income fluctuation caused by changes
+to interest rates, when mismatches in interest rates and
+durations occur. Interest rate risk is, on the whole, expressed
+by the equation of “balance x magnitude of interest rate change
+x duration.” 
+To control interest rate risk in a concrete and objective
+manner, ITOCHU has grappled with quantification of interest
+rate risk by measuring interest rate risk with a new
+methodology, “Earning at Risk (EaR).” Based on the results of
+EaR, ITOCHU sets a certain limit (Loss Cut Limit) as the highest
+acceptable interest payment, and executes hedging
+transactions to maintain the loss cut limit. ITOCHU mainly
+utilizes interest rate swaps to minimize interest rate risk. EaR is
+monitored every month and a review of the loss cut limit
+situation is carried out regularly.
+Commodity Price Risk
+ITOCHU is exposed to commodity price risk on commodity
+products that it trades such as crude oil and grain. In ITOCHU,
+each Division Company sets its own risk management policy
+and manages purchase contracts, inventories and sales
+contracts including off-balance sheet items. In addition,
+particularly for products that have high price volatilities and may
+have a large impact on ITOCHU’s management, ITOCHU
+designates them as “specified important products” and each
+Division Company sets and manages a balance limit and loss
+cut limit for each individual product. The loss cut limits for
+products with a large amount of trading are examined by the
+ALM Committee and approved by the HMC. The trading
+volumes of specified important products are regularly reviewed
+and reported to the ALM Committee along with their product
+management standards and methods. ITOCHU is reducing
+commodity price risk by minimizing the balance of products
+and by utilizing futures or forward contracts. For price
+fluctuation risk of ship charter fares regarding shipping balance
+ITOCHU owns for its own use, like specified important
+products, it sets and manages balance limit and loss cut limit.
+Stock Price Risk
+ITOCHU holds available-for-sale marketable securities which
+are vulnerable to price fluctuation. As for stock price risk,
+ITOCHU aims to optimize the amount of investments by
+applying exit rules for inefficient and less meaningful
+investments, because hedging by derivative instruments is not
+effective for available-for-sale marketable securities held for
+long-term. Fair value of the available-for-sale marketable
+securities held by ITOCHU was ¥167.4 billion as of March 31,
+2003 and ¥256.1 billion as of March 31, 2002. In cases where
+the aggregate prices of these investments had fluctuated by
+10%, fair value would also have fluctuated by ¥16.7 billion as of
+March 31, 2003 and by ¥25.6 billion as of March 31, 2002.
