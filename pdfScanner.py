@@ -6,11 +6,11 @@ from reportlab.pdfgen import canvas
 from tqdm import tqdm
 
 
-for page_layout in extract_pages("./all/2020/page_8.pdf"):
-    for element in page_layout:
-        print(element)
-        # if isinstance(element, LTTextContainer):
-        #     print('haha', element.get_text())
+# for page_layout in extract_pages("./all/2020/page_8.pdf"):
+#     for element in page_layout:
+#         print(element)
+#         # if isinstance(element, LTTextContainer):
+#         #     print('haha', element.get_text())
 
 
 
@@ -40,9 +40,7 @@ def draw_bounding_boxes(pdf_path, page_num, output_pdf_path):
                 # Optionally label each box
                 # c.drawString(x0, y0 - 10, f"Box: ({x0}, {y0})")
 
-
         elif isinstance(element, (LTLine, LTRect)):
-
             # Draw rectangles for LTLine and LTRect elements
             c.rect(element.x0, element.y0, element.width, element.height)
 
@@ -50,9 +48,17 @@ def draw_bounding_boxes(pdf_path, page_num, output_pdf_path):
     c.showPage()
     c.save()
 
-# # Example usage:
-# draw_bounding_boxes("./Test/text_5.pdf", 1, "./all/output_with_bounding_boxes4.pdf")
+def draw_bounding_boxes_for_folder(folder_path):
+    output_folder = os.path.join(folder_path, "bbox_2020_pdfminer")
+    os.makedirs(output_folder, exist_ok=True)
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".pdf"):
+            input_pdf_path = os.path.join(folder_path, filename)
+            output_pdf_path = os.path.join(output_folder, f"bbox_{filename}")
+            draw_bounding_boxes(input_pdf_path, 1, output_pdf_path)
 
+# Example usage:
+# draw_bounding_boxes_for_folder("./2020_pdf_test")
 def extract_text_from_pdfs(pdf_folder, output_folder):
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
@@ -80,7 +86,7 @@ def extract_text_from_pdfs(pdf_folder, output_folder):
 
 
 
-output_folder_txt = "./Test/2020Result"
-pdf_folder = "./all/2020"
+output_folder_txt = "./2020_pdf_test/txt_2020_pdfminer"
+pdf_folder = "./2020_pdf_test"
 # Example usage:
 extract_text_from_pdfs(pdf_folder, output_folder_txt)

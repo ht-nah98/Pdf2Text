@@ -1,0 +1,6 @@
+{"type": "figure", "bbox": [151, 176, 1553, 826], "res": [], "img_idx": 0}
+{"type": "header", "bbox": [192, 110, 410, 142], "res": [{"text": "CONTENTS", "confidence": 0.9504072666168213, "text_region": [[189.0, 112.0], [409.0, 104.0], [411.0, 156.0], [191.0, 164.0]]}], "img_idx": 0}
+{"type": "header", "bbox": [1864, 119, 1949, 137], "res": [{"text": "ONTENT", "confidence": 0.9564192891120911, "text_region": [[1875.0, 125.0], [1940.0, 125.0], [1940.0, 153.0], [1875.0, 153.0]]}], "img_idx": 0}
+{"type": "footer", "bbox": [1288, 2257, 1456, 2285], "res": [], "img_idx": 0}
+{"type": "footer", "bbox": [1421, 2258, 1532, 2284], "res": [], "img_idx": 0}
+{"type": "reference", "bbox": [192, 2147, 1487, 2216], "res": [], "img_idx": 0}
