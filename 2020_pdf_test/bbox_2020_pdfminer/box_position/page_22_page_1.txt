@@ -1,0 +1,111 @@
+Box: (56.6929, 813.3208999999999), Width: 226.63079999999997, Height: 11.0, Text: Driving Force for Sustainable Value Creation
+Box: (56.6929, 723.2810000000001), Width: 225.0475, Height: 25.0, Text: The Story of Merchants
+Box: (56.6929, 706.976), Width: 459.07180000000005, Height: 11.0, Text: More than 160 years have passed since ITOCHU’s establishment in 1858. Like our founder, Chubei Itoh I,
+Box: (56.6929, 693.974), Width: 455.8026000000002, Height: 11.0, Text: who crossed rugged mountain passes and paved the ways for peddling his wares throughout Japan, we have
+Box: (56.6929, 680.9720000000001), Width: 448.8957000000003, Height: 11.0, Text: overcome numerous difficulties during the ensuing years. Despite these difficulties we have remained true
+Box: (56.6929, 667.9700000000001), Width: 450.75579999999997, Height: 11.0, Text: to our identity as a merchant, “supplying the needs of the society,” as well as to the business philosophy of
+Box: (56.6929, 654.9680000000002), Width: 444.6189, Height: 11.176000000000045, Text: Chubei Itoh I, “Sampo-yoshi.” This identity and philosophy have constantly underscored our actions and
+Box: (56.6929, 641.9660000000002), Width: 226.2007000000001, Height: 11.0, Text: served as the driving force for transforming ourselves.
+Box: (56.6929, 569.158), Width: 840.4108, Height: 46.0, Text: Staying True to “the Way of       the Merchant”
+Box: (56.6929, 520.158), Width: 453.92340000000013, Height: 46.0, Text: for More Than 160 Years
+Box: (56.6929, 458.30339999999995), Width: 77.5453, Height: 7.0, Text: Consolidated Net Profit
+Box: (1112.2537, 446.7069), Width: 12.70620000000008, Height: 5.399999999999977, Text: (Plan)
+Box: (55.4265, 414.4935), Width: 15.56799999999999, Height: 7.0, Text: 1858
+Box: (187.9354, 414.4935), Width: 15.568000000000012, Height: 7.0, Text: 1960
+Box: (325.8493, 414.4935), Width: 15.567999999999984, Height: 7.0, Text: 1970
+Box: (463.49730000000005, 414.4935), Width: 15.567999999999984, Height: 7.0, Text: 1980
+Box: (690.5913, 414.4935), Width: 15.568000000000097, Height: 7.0, Text: 1990
+Box: (830.4163000000001, 414.4935), Width: 15.568000000000097, Height: 7.0, Text: 2000
+Box: (898.0153000000001, 414.4935), Width: 15.568000000000097, Height: 7.0, Text: 2005
+Box: (966.4263000000001, 414.4935), Width: 15.568000000000097, Height: 7.0, Text: 2010
+Box: (1034.8443, 414.4935), Width: 15.567999999999984, Height: 7.0, Text: 2015
+Box: (1103.7242999999999, 414.4935), Width: 15.567999999999984, Height: 7.0, Text: 2020
+Box: (61.7517, 392.3984), Width: 89.09530000000001, Height: 7.0, Text: ITOCHU’s Major Milestones
+Box: (56.6929, 378.15479999999997), Width: 15.56799999999999, Height: 7.0, Text: 1858
+Box: (56.6929, 370.15479999999997), Width: 30.729999999999997, Height: 7.0, Text: Founded
+Box: (56.6929, 344.58320000000003), Width: 101.46600000000004, Height: 6.0, Text: Chubei Itoh I commenced linen trading
+Box: (56.6929, 337.5812), Width: 112.02000000000004, Height: 6.0, Text: operations via Osaka in Senshu and Kishu.
+Box: (180.0, 378.15479999999997), Width: 43.847999999999985, Height: 7.0, Text: 1950s–1960s
+Box: (180.0, 370.15479999999997), Width: 77.798, Height: 7.0, Text: Internationalization and
+Box: (180.0, 362.1538), Width: 47.85900000000001, Height: 7.0, Text: Diversification
+Box: (303.3071, 378.15479999999997), Width: 19.200999999999965, Height: 7.0, Text: 1970s
+Box: (303.3071, 370.15479999999997), Width: 111.53030000000001, Height: 7.0, Text: Move into Resource Development
+Box: (303.3071, 362.1538), Width: 81.43100000000004, Height: 7.0, Text: and Space Development
+Box: (426.6141, 378.15479999999997), Width: 19.200999999999965, Height: 7.0, Text: 1980s
+Box: (426.6141, 370.15479999999997), Width: 83.40430000000003, Height: 7.0, Text: Aggressive Promotion of
+Box: (426.6141, 362.1538), Width: 101.67500000000007, Height: 7.0, Text: Telecommunications Business
+Box: (180.0, 344.58320000000003), Width: 98.13, Height: 6.0, Text: We pursued a path of diversification,
+Box: (179.99999999999997, 337.5812), Width: 113.63939999999994, Height: 6.0, Text: and as a result non-textile areas accounted
+Box: (179.99999999999997, 330.5792), Width: 108.76199999999997, Height: 6.0, Text: for around 40% of trading volume (1958).
+Box: (179.99999999999997, 323.5772), Width: 107.6874, Height: 6.0, Text: In the 1960s, we expanded our business
+Box: (179.99999999999997, 316.5752), Width: 97.80059999999995, Height: 6.0, Text: to include energy, machinery, general
+Box: (179.99999999999997, 309.5732), Width: 103.36739999999995, Height: 6.0, Text: merchandise projects, and the iron and
+Box: (179.99999999999997, 302.5712), Width: 99.70199999999997, Height: 6.0, Text: steel business, becoming a “¥1 trillion
+Box: (179.99999999999997, 295.56919999999997), Width: 47.286, Height: 6.0, Text: trading company.”
+Box: (303.3071, 344.58320000000003), Width: 96.6954, Height: 6.0, Text: While we set our policy of aggressive
+Box: (303.3071, 337.5812), Width: 109.69140000000004, Height: 6.0, Text: expansion into such areas as space devel-
+Box: (303.3071, 330.5792), Width: 113.64600000000002, Height: 6.0, Text: opment, ocean development, and overseas
+Box: (303.3071, 323.5772), Width: 109.93079999999998, Height: 6.0, Text: resource development, we returned to the
+Box: (303.3071, 316.5752), Width: 107.80200000000002, Height: 6.0, Text: Chinese market prior to the normalization
+Box: (303.3071, 309.5732), Width: 110.80740000000003, Height: 6.0, Text: of diplomatic relations between Japan and
+Box: (303.3071, 302.5712), Width: 110.15280000000001, Height: 6.0, Text: China. In 1977, we expanded the iron and
+Box: (303.3071, 295.56919999999997), Width: 113.1354, Height: 6.0, Text: steel business through a merger with Ataka
+Box: (303.3071, 288.56719999999996), Width: 28.00799999999998, Height: 6.0, Text: & Co., Ltd.
+Box: (426.6141, 344.58320000000003), Width: 103.92600000000004, Height: 6.0, Text: As yen appreciation became a fixture of
+Box: (426.6141, 337.5812), Width: 106.47540000000004, Height: 6.0, Text: the economy, we promoted international-
+Box: (426.6141, 330.5792), Width: 94.65600000000006, Height: 6.0, Text: ization and globalization. We moved
+Box: (426.6141, 323.5772), Width: 109.63800000000003, Height: 6.0, Text: aggressively into the ICT field and entered
+Box: (426.6141, 316.5752), Width: 55.25999999999999, Height: 6.0, Text: the satellite business.
+Box: (56.6929, 266.4136), Width: 50.568000000000005, Height: 7.0, Text: Changing times
+Box: (85.0394, 248.89870000000002), Width: 13.343999999999994, Height: 6.0, Text: 1920
+Box: (85.0394, 241.9387), Width: 71.6814, Height: 6.0, Text: Depression following World
+Box: (85.0394, 234.9367), Width: 13.22399999999999, Height: 6.0, Text: War I
+Box: (171.4934, 248.88669999999996), Width: 13.344000000000023, Height: 6.0, Text: 1939
+Box: (171.4934, 241.92669999999995), Width: 31.337999999999994, Height: 6.0, Text: World War II
+Box: (85.0394, 224.0587), Width: 13.343999999999994, Height: 6.0, Text: 1923
+Box: (85.0394, 217.09869999999998), Width: 64.02600000000001, Height: 6.0, Text: Great Kanto Earthquake
+Box: (85.0394, 206.22069999999997), Width: 13.343999999999994, Height: 6.0, Text: 1929
+Box: (85.0394, 199.26069999999996), Width: 56.24340000000004, Height: 6.0, Text: The Great Depression
+Box: (56.6929, 161.3067), Width: 57.321000000000005, Height: 11.0, Text: An Inherited
+Box: (56.6929, 148.3047), Width: 67.49599999999998, Height: 11.0, Text: Merchant Spirit
+Box: (56.6929, 135.02370000000002), Width: 73.964, Height: 5.5, Text: Period of appointment as CEO
+Box: (56.6929, 127.02120000000001), Width: 62.64500000000002, Height: 5.500000000000014, Text: (after the establishment of
+Box: (56.6929, 119.01870000000001), Width: 70.10300000000004, Height: 5.500000000000014, Text: ITOCHU Corporation in 1949)
+Box: (374.1734, 248.88669999999996), Width: 13.343999999999994, Height: 6.0, Text: 1971
+Box: (374.1734, 241.92669999999995), Width: 32.00400000000002, Height: 6.0, Text: Nixon shock
+Box: (374.1734, 231.04869999999994), Width: 13.343999999999994, Height: 6.0, Text: 1973
+Box: (374.1734, 224.08869999999993), Width: 35.334, Height: 6.0, Text: First oil shock
+Box: (443.9054, 248.88069999999993), Width: 63.93000000000001, Height: 6.0, Text: Late 1970s to early 80s
+Box: (443.9054, 241.92069999999993), Width: 58.907399999999996, Height: 6.0, Text: Period of hardship for
+Box: (443.9054, 234.91869999999992), Width: 47.898000000000025, Height: 6.0, Text: trading companies
+Box: (443.9054, 224.0406999999999), Width: 13.343999999999994, Height: 6.0, Text: 1979
+Box: (443.9054, 217.0806999999999), Width: 44.45999999999998, Height: 6.0, Text: Second oil shock
+Box: (153.0073, 110.2808), Width: 41.22999999999999, Height: 7.0, Text: Chubei Itoh I
+Box: (234.7113, 110.2808), Width: 43.176000000000045, Height: 7.0, Text: Chubei Itoh II
+Box: (312.55129999999997, 110.2808), Width: 52.85699999999997, Height: 7.0, Text: Takenosuke Itoh
+Box: (229.61149999999998, 93.94579999999999), Width: 56.69400000000002, Height: 6.0, Text: “Unless you deliver
+Box: (234.3935, 85.94779999999999), Width: 47.130000000000024, Height: 6.0, Text: what is needed,
+Box: (227.6615, 77.94979999999998), Width: 57.25740000000002, Height: 6.0, Text: you will never grow.”
+Box: (318.8495, 93.95179999999998), Width: 43.57800000000003, Height: 6.0, Text: “Reliable, fast,
+Box: (314.0195, 85.95379999999997), Width: 49.908000000000015, Height: 6.0, Text: simple, and clear”
+Box: (136.8755, 93.93379999999999), Width: 75.15, Height: 6.0, Text: “Trade is a compassionate
+Box: (137.8235, 85.93579999999999), Width: 73.25400000000002, Height: 6.0, Text: business. It is noble when
+Box: (136.76749999999998, 77.93779999999998), Width: 75.36600000000004, Height: 6.0, Text: it accords with the spirit of
+Box: (137.6075, 69.93979999999998), Width: 73.69140000000002, Height: 6.0, Text: Buddha by profiting those
+Box: (140.99149999999997, 61.94179999999997), Width: 66.918, Height: 6.0, Text: who sell and those who
+Box: (142.94149999999996, 53.943799999999975), Width: 63.018, Height: 6.0, Text: buy and supplying the
+Box: (143.70949999999996, 45.94579999999998), Width: 59.8074, Height: 6.0, Text: needs of the society.”
+Box: (396.95029999999997, 110.2808), Width: 49.41300000000001, Height: 7.0, Text: Uichiro Kosuga
+Box: (406.8095, 102.54379999999999), Width: 29.688000000000045, Height: 6.0, Text: 1949–1960
+Box: (387.81350000000003, 91.6658), Width: 69.34740000000005, Height: 6.0, Text: “ITOCHU’s management
+Box: (393.9755, 83.6678), Width: 58.69200000000001, Height: 6.0, Text: policy is to maintain
+Box: (388.8095, 75.6698), Width: 67.356, Height: 6.0, Text: a family-like community
+Box: (392.0315, 67.67179999999999), Width: 62.579999999999984, Height: 6.0, Text: that shares what little
+Box: (411.9815, 59.673799999999986), Width: 21.00600000000003, Height: 6.0, Text: it has.”
+Box: (475.799, 110.2808), Width: 59.00999999999999, Height: 7.0, Text: Masakazu Echigo
+Box: (489.4867, 102.54379999999999), Width: 29.688000000000045, Height: 6.0, Text: 1960–1974
+Box: (479.7127, 91.6658), Width: 52.57800000000003, Height: 6.0, Text: “Every dark cloud
+Box: (478.37469999999996, 83.6678), Width: 51.918000000000006, Height: 6.0, Text: has a silver lining.”
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 20
+Box: (184.252, 17.0105), Width: 14.943999999999988, Height: 8.0, Text: 1858
+Box: (56.6929, 362.1538), Width: 1.945999999999998, Height: 7.0, Text: 

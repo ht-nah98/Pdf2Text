@@ -1,0 +1,109 @@
+Box: (56.6929, 787.4907), Width: 396.57660000000016, Height: 14.0, Text: Our Business Model, as Seen through Business Development
+Box: (56.6929, 731.2121000000001), Width: 394.93399999999997, Height: 19.0, Text: Expanding Our Multifaceted Businesses and
+Box: (56.6929, 708.2031000000001), Width: 179.54999999999998, Height: 19.0, Text: Tirelessly Upgrading
+Box: (56.6929, 691.3354999999999), Width: 438.0461999999995, Height: 9.0, Text: We are expanding our multifaceted businesses through a chain reaction by leveraging functional areas of
+Box: (56.6929, 679.3385), Width: 469.6820999999992, Height: 9.0, Text: strength. At the same time, we are combining existing businesses, shifting to a market-oriented perspective, and
+Box: (56.6929, 667.3415), Width: 449.5211999999995, Height: 9.0, Text: investing in new fields. Through such efforts, we continue to upgrade our business model and pursue a new
+Box: (56.6929, 655.3445), Width: 195.09300000000005, Height: 9.0, Text: vision of what a trading company can achieve.
+Box: (56.6929, 629.2221), Width: 198.4311000000001, Height: 9.0, Text: Advancing into Areas Where We Can Leverage
+Box: (56.6929, 618.2240999999999), Width: 103.8681, Height: 9.0, Text: Our Distinctive Strengths
+Box: (301.8897, 629.2221), Width: 149.22899999999998, Height: 9.0, Text: Establishing a Market Position and
+Box: (301.8897, 618.2240999999999), Width: 172.404, Height: 9.0, Text: Creating Multifaceted, Linked Businesses
+Box: (74.9758, 599.2116), Width: 51.80940000000001, Height: 6.0, Text: Investing in areas
+Box: (84.2098, 593.2116), Width: 30.012000000000015, Height: 6.0, Text: of strength
+Box: (56.68810000000002, 537.1483), Width: 74.57400000000001, Height: 6.0, Text: • Acquire trade opportunities
+Box: (56.68810000000002, 529.1502999999999), Width: 85.34940000000003, Height: 6.0, Text: •  Consolidate / Pick up earnings
+Box: (61.35610000000002, 521.1522999999999), Width: 30.558, Height: 6.0, Text: of investees
+Box: (81.3179, 482.57959999999997), Width: 35.790000000000006, Height: 6.0, Text: Coordination
+Box: (71.6459, 467.7844), Width: 56.80200000000001, Height: 6.0, Text: Promoting business
+Box: (81.0959, 461.7844), Width: 36.22800000000001, Height: 6.0, Text: management
+Box: (445.905, 597.5259999999997), Width: 47.02199999999999, Height: 6.0, Text: Acquire new trade
+Box: (203.0488, 594.9506), Width: 67.03829999999996, Height: 7.0, Text: Distinctive Strengths
+Box: (193.923, 581.8), Width: 73.92540000000002, Height: 6.0, Text: Securing resources and raw
+Box: (193.923, 573.8019999999999), Width: 76.56540000000001, Height: 6.0, Text: materials / linking purchasers
+Box: (193.923, 565.8039999999999), Width: 69.01740000000001, Height: 6.0, Text: with producers / providing
+Box: (193.923, 557.8059999999998), Width: 62.346000000000004, Height: 6.0, Text: added value that meets
+Box: (193.923, 549.8079999999998), Width: 73.79340000000002, Height: 6.0, Text: consumer needs / providing
+Box: (193.923, 541.8099999999997), Width: 22.883999999999986, Height: 6.0, Text: solutions
+Box: (193.923, 502.9282), Width: 79.76430000000005, Height: 7.0, Text: Advance into areas where
+Box: (193.923, 493.9262), Width: 62.650000000000034, Height: 7.0, Text: we can leverage our
+Box: (193.923, 484.9242), Width: 59.62530000000001, Height: 7.0, Text: distinctive strengths
+Box: (301.88410000000005, 540.4962999999999), Width: 39.341999999999985, Height: 6.0, Text: • Expand trade
+Box: (301.88410000000005, 532.4982999999999), Width: 51.683400000000006, Height: 6.0, Text: •  Increase earnings
+Box: (306.55210000000005, 524.5002999999998), Width: 30.55800000000005, Height: 6.0, Text: of investees
+Box: (307.9201, 484.16229999999996), Width: 60.47399999999999, Height: 6.0, Text: Generating synergies
+Box: (311.3641, 478.16229999999996), Width: 51.91199999999998, Height: 6.0, Text: among businesses
+Box: (56.6929, 434.5424), Width: 216.748, Height: 7.0, Text: We narrow down possible areas to those in which we can generate
+Box: (56.6929, 425.5404), Width: 208.99900000000008, Height: 7.0, Text: synergies with existing businesses and control risk, and advance
+Box: (56.6929, 416.53839999999997), Width: 205.7720000000001, Height: 7.0, Text: into new businesses and markets through trade and investment.
+Box: (342.1675, 457.4792), Width: 77.58480000000003, Height: 6.0, Text: Thoroughly instill the “earn,
+Box: (347.94550000000004, 451.4792), Width: 64.356, Height: 6.0, Text: cut, prevent” principles
+Box: (458.799, 449.79399999999976), Width: 21.22800000000001, Height: 6.0, Text: Mergers
+Box: (301.8889, 434.5354), Width: 200.57800000000015, Height: 7.0, Text: After advancing into a new area, we strive to acquire business
+Box: (301.8889, 425.5334), Width: 208.397, Height: 7.0, Text: know-how while setting our sights on the next step. At the same
+Box: (301.8889, 416.53139999999996), Width: 206.84300000000013, Height: 7.0, Text: time, we leverage our management resources and create added
+Box: (301.8889, 407.52939999999995), Width: 216.92300000000006, Height: 7.0, Text: value to increase investees’ corporate value and establish a market
+Box: (301.8889, 398.52739999999994), Width: 211.5470000000002, Height: 7.0, Text: position. Thereafter, we continuously work to thoroughly instill the
+Box: (301.8889, 389.52539999999993), Width: 223.7830000000002, Height: 7.0, Text: “earn, cut, prevent” principles, acquire new trade, generate synergies
+Box: (301.8889, 380.5233999999999), Width: 217.3920000000001, Height: 7.0, Text: among businesses, and reorganize business, creating multifaceted,
+Box: (301.8889, 371.5213999999999), Width: 58.527000000000044, Height: 7.0, Text: linked businesses.
+Box: (372.8862, 328.7642), Width: 199.5822, Height: 9.0, Text: Examples from the Convenience Store Business
+Box: (93.9768, 295.4721), Width: 147.204, Height: 9.0, Text: Acquiring Customer Contact Points
+Box: (56.3179, 285.34250000000003), Width: 203.76000000000028, Height: 6.0, Text: ITOCHU acquired approximately 30% of the issued shares of FamilyMart in 1998,
+Box: (56.3179, 277.34450000000004), Width: 217.30200000000036, Height: 6.0, Text: marking our first full-fledged foray into the retail field. In 2006, we converted the general
+Box: (56.3179, 269.34650000000005), Width: 215.04000000000042, Height: 6.0, Text: food wholesaler NIPPON ACCESS, INC., into a consolidated subsidiary. These moves
+Box: (56.3179, 261.34850000000006), Width: 223.06800000000044, Height: 6.0, Text: accelerated reforms in our business model highlighted by the introduction of the Strategic
+Box: (56.3179, 253.35050000000007), Width: 211.6080000000003, Height: 6.0, Text: Integrated System (SIS) strategy—building a value chain spanning the securement of
+Box: (56.3179, 245.35250000000008), Width: 209.5980000000003, Height: 6.0, Text: foodstuffs; midstream processing, manufacturing, and intermediate distribution; and
+Box: (56.3179, 237.3545000000001), Width: 45.82800000000001, Height: 6.0, Text: downstream retail.
+Box: (304.4479, 296.5231), Width: 218.88, Height: 8.0, Text: Strengthening the Intermediate Food Distribution Business
+Box: (369.4959, 287.5231), Width: 86.55199999999996, Height: 8.0, Text: through Reorganization
+Box: (301.5147, 277.1725), Width: 218.59200000000004, Height: 6.0, Text: In October 2011, ITOCHU integrated its intermediate food distribution business, cen-
+Box: (301.51470000000006, 269.1745), Width: 223.51019999999994, Height: 6.0, Text: tering it on NIPPON ACCESS, INC. Through this reorganization, we built a system that
+Box: (301.51470000000006, 261.17650000000003), Width: 220.39559999999994, Height: 6.0, Text: can offer integrated handling of processed foods in all temperature ranges—ambient,
+Box: (301.51470000000006, 253.17850000000004), Width: 210.50220000000002, Height: 6.0, Text: frozen, and chilled—as well as the three main groups of fresh food products. This
+Box: (301.51470000000006, 245.18050000000005), Width: 221.2554, Height: 6.0, Text: move also facilitated the provision of integrated distribution services. Now possessing
+Box: (301.51470000000006, 237.18250000000006), Width: 207.56099999999998, Height: 6.0, Text: top-class scale and functionality in the field of food distribution, we have created
+Box: (301.51470000000006, 229.18450000000007), Width: 201.52199999999976, Height: 6.0, Text: a structure providing our business partners with low-cost, high-quality logistics.
+Box: (59.1525, 202.5067), Width: 101.1714, Height: 6.0, Text: 1998 Acquired 30% of issued shares
+Box: (301.5148, 202.1099), Width: 56.682000000000016, Height: 6.0, Text: Until September 2011
+Box: (59.1525, 171.0147), Width: 106.17540000000002, Height: 6.0, Text: 2006 Acquired 60.4% of issued shares
+Box: (305.159, 170.1458), Width: 45.47999999999996, Height: 5.0, Text: Family Corporation
+Box: (322.989, 164.1458), Width: 8.430000000000007, Height: 5.0, Text: Inc.
+Box: (307.534, 158.1808), Width: 39.34499999999997, Height: 5.0, Text: Logistics business
+Box: (363.2288, 170.1458), Width: 43.435, Height: 5.0, Text: NIPPON ACCESS,
+Box: (379.24879999999996, 164.1458), Width: 10.0, Height: 5.0, Text: INC.
+Box: (364.61379999999997, 158.1808), Width: 39.275000000000034, Height: 5.0, Text: General wholesale
+Box: (423.9285, 173.1458), Width: 37.51999999999998, Height: 5.0, Text: Universal Food
+Box: (431.4335, 167.1458), Width: 19.724999999999966, Height: 5.0, Text: Co., Ltd.
+Box: (422.2185, 161.1808), Width: 39.545000000000016, Height: 5.0, Text: Wholesale in food
+Box: (419.7135, 155.1808), Width: 43.164999999999964, Height: 5.0, Text: service and catering
+Box: (481.7182, 170.1458), Width: 34.644499999999994, Height: 5.0, Text: ITOCHU Fresh
+Box: (479.63820000000004, 164.1458), Width: 37.420000000000016, Height: 5.0, Text: Corporation Inc.
+Box: (475.56320000000005, 158.1808), Width: 45.57000000000005, Height: 5.0, Text: Fresh food wholesale
+Box: (216.822, 139.60940000000002), Width: 25.75, Height: 5.0, Text: FamilyMart
+Box: (465.7936, 139.9948), Width: 15.284999999999968, Height: 5.0, Text: Merger
+Box: (301.5148, 125.75389999999999), Width: 36.132000000000005, Height: 6.0, Text: October 2011
+Box: (139.5417, 102.0739), Width: 43.435, Height: 5.0, Text: NIPPON ACCESS,
+Box: (155.5617, 96.0739), Width: 9.999999999999972, Height: 5.0, Text: INC.
+Box: (207.70499999999998, 107.33799999999972), Width: 69.90600000000006, Height: 6.0, Text: Acquire trade opportunities
+Box: (301.50299999999993, 103.25799999999974), Width: 79.50600000000003, Height: 6.0, Text: Conducted an absorption-type
+Box: (301.50299999999993, 95.25999999999974), Width: 84.33000000000004, Height: 6.0, Text: merger of Family Corporation Inc.
+Box: (301.50299999999993, 87.26199999999973), Width: 71.64000000000004, Height: 6.0, Text: Merged with ITOCHU Fresh
+Box: (301.50299999999993, 79.26399999999973), Width: 40.78200000000004, Height: 6.0, Text: Corporation Inc.
+Box: (387.45899999999995, 86.58399999999972), Width: 23.124000000000024, Height: 6.0, Text: Became
+Box: (375.90899999999993, 79.58199999999972), Width: 34.674000000000035, Height: 6.0, Text: consolidated
+Box: (383.03099999999995, 72.57999999999973), Width: 25.884000000000015, Height: 6.0, Text: subsidiary
+Box: (391.7523, 102.25319999999999), Width: 43.435, Height: 5.0, Text: NIPPON ACCESS,
+Box: (407.7723, 96.25319999999999), Width: 10.0, Height: 5.0, Text: INC.
+Box: (443.7151, 98.3015), Width: 79.15139999999997, Height: 6.0, Text: Comprehensive provision of
+Box: (443.4871, 92.3015), Width: 79.608, Height: 6.0, Text: general wholesale, logistics,
+Box: (446.8231, 86.3015), Width: 72.93, Height: 6.0, Text: fresh food wholesale, and
+Box: (447.4291, 80.3015), Width: 71.71200000000005, Height: 6.0, Text: wholesale in food service
+Box: (465.1111, 74.3015), Width: 34.68000000000001, Height: 6.0, Text: and catering
+Box: (56.3179, 63.7052), Width: 201.19799999999992, Height: 5.999999999999993, Text: *  As of March 31, 2020, we own 50.2% of FamilyMart Co., Ltd., and 100% of
+Box: (60.0979, 55.7072), Width: 61.58400000000001, Height: 6.0, Text: NIPPON ACCESS, INC.
+Box: (395.4048, 62.3889), Width: 37.51999999999998, Height: 4.999999999999993, Text: Universal Food
+Box: (402.9098, 56.3889), Width: 19.724999999999966, Height: 5.0, Text: Co., Ltd.
+Box: (442.0271, 58.0066), Width: 80.86000000000001, Height: 5.0, Text: Wholesale in food service and catering
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 32

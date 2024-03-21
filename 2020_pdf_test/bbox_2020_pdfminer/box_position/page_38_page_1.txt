@@ -1,0 +1,152 @@
+Box: (56.6929, 787.4907), Width: 229.30600000000004, Height: 14.0, Text: Macroenvironmental PEST Analysis
+Box: (56.9429, 741.7221), Width: 465.21809999999925, Height: 9.0, Text: The business environment surrounding ITOCHU is changing day by day, while uncertainties increase. Through a
+Box: (56.9429, 729.7251), Width: 459.7019999999993, Height: 9.0, Text: PEST analysis, we adequately assess the risks and opportunities related to non-financial capital in the context
+Box: (56.9429, 717.7281), Width: 462.32099999999934, Height: 9.0, Text: of macroeconomic factors, including the COVID-19 pandemic and trade friction between the United States and
+Box: (56.9429, 705.7311000000001), Width: 458.3501999999993, Height: 9.0, Text: China. We use this assessment to build a stronger competitive edge while flexibly responding and adapting to
+Box: (56.9429, 693.7341000000001), Width: 156.8961, Height: 9.0, Text: changes in the business environment.
+Box: (228.8969, 662.7509), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (249.7761, 658.1085), Width: 82.05089999999998, Height: 16.0, Text: P (Political / Legal)
+Box: (277.08889999999997, 662.7509), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.18489999999997, 662.7509), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.2809, 662.7509), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (252.9929, 662.7509), Width: 3.3359999999999843, Height: 6.0, Text: 2
+Box: (349.3769, 662.7509), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (166.2892, 645.9582), Width: 15.040999999999997, Height: 6.5, Text: Risks
+Box: (388.9532, 645.9582), Width: 37.674000000000035, Height: 6.5, Text: Opportunities
+Box: (269.67590000000007, 633.4753), Width: 42.25200000000001, Height: 6.0, Text: Political Trends
+Box: (228.8939, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (252.9599, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.0259, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.0919, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.15790000000004, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (349.22390000000007, 612.3552999999999), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (66.3886, 599.5096), Width: 144.66599999999994, Height: 7.5, Text: Global economic stagnation; decrease in trade
+Box: (61.522225, 590.5096), Width: 152.41799999999995, Height: 7.5, Text: volume; stricter export and investment regulations
+Box: (263.9635, 599.9111), Width: 57.012, Height: 6.0, Text: U.S.–China Conflict
+Box: (230.38150000000002, 591.9131), Width: 120.83940000000001, Height: 6.0, Text: (Trade disputes, forced technology transfer)
+Box: (408.1726, 595.0096), Width: 71.40000000000003, Height: 7.5, Text: Supply chain revisions
+Box: (70.4176, 578.6146), Width: 136.71, Height: 7.5, Text: Decrease in trade volume and movement;
+Box: (82.86009999999999, 569.6146), Width: 109.73249999999999, Height: 7.5, Text: destabilization of financial markets
+Box: (251.0667, 579.0168), Width: 82.80600000000001, Height: 6.0, Text: Anti-globalization Movement
+Box: (255.0627, 571.0187999999999), Width: 71.47140000000002, Height: 6.0, Text: (Brexit and protectionism)
+Box: (367.0615, 578.6152999999999), Width: 153.62257499999976, Height: 7.5, Text: Greater complexity in food and resource procurement;
+Box: (412.24600000000004, 569.6152999999999), Width: 63.25425000000001, Height: 7.5, Text: supply chain revisions
+Box: (88.2683, 554.3435), Width: 98.925, Height: 7.5, Text: Coercive political management
+Box: (278.0724, 559.245), Width: 28.793999999999983, Height: 6.0, Text: Elections
+Box: (227.88840000000002, 551.247), Width: 125.83200000000002, Height: 6.0, Text: (U.S. presidential and Lower House elections)
+Box: (413.4563, 554.3435), Width: 60.83250000000004, Height: 7.5, Text: Economic stimulus
+Box: (69.93380000000002, 539.0735), Width: 137.6775, Height: 7.5, Text: Economic stagnation due to terrorism and
+Box: (113.83130000000003, 530.0735), Width: 47.79000000000002, Height: 7.5, Text: armed conflict;
+Box: (92.86130000000003, 521.0735), Width: 89.73749999999998, Height: 7.5, Text: disorder in financial markets
+Box: (221.7149, 530.9732), Width: 138.1728, Height: 6.0, Text: Geopolitical Risks (Middle East, North Korea, etc.)
+Box: (401.0102, 530.0717), Width: 85.72500000000002, Height: 7.5, Text: Increase in crude oil prices
+Box: (96.74269999999996, 471.78169999999994), Width: 81.97500000000005, Height: 7.5, Text: Decrease in trade volume
+Box: (238.0258, 509.5995), Width: 105.5514, Height: 6.000000000000057, Text: Changes in Tax Code and Regulations
+Box: (228.8828, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (252.9488, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.01480000000004, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.08080000000007, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.1468000000001, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (349.21280000000013, 487.99949999999995), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (243.0746, 476.68559999999997), Width: 98.78940000000003, Height: 6.0, Text: Trade Talks and Trade Agreements
+Box: (240.9026, 468.6876), Width: 99.798, Height: 6.0, Text: (Japan–U.S., U.S.–EU, USMCA, etc.)
+Box: (408.1726, 471.78409999999997), Width: 71.40000000000003, Height: 7.5, Text: Supply chain revisions
+Box: (84.52510000000001, 456.5141), Width: 110.58000000000001, Height: 7.5, Text: Existing energy market shrinkage
+Box: (107.2951, 447.5141), Width: 60.8625, Height: 7.5, Text: (coal and crude oil)
+Box: (231.7829, 456.9138), Width: 121.374, Height: 6.0, Text: Greenhouse Gas Containment Regulations
+Box: (259.34090000000003, 448.9158), Width: 62.922000000000025, Height: 6.0, Text: (Paris Agreement, etc.)
+Box: (391.0803, 456.5123), Width: 109.755, Height: 7.5, Text: Expansion of new energy market
+Box: (394.81530000000004, 447.5123), Width: 98.10674999999998, Height: 7.5, Text: (wind power, solar power, etc.)
+Box: (68.21280000000007, 435.6173), Width: 143.20499999999998, Height: 7.5, Text: Rising costs, such as those for establishing
+Box: (109.52280000000007, 426.6173), Width: 56.41425000000001, Height: 7.5, Text: data governance;
+Box: (83.61780000000007, 417.6173), Width: 108.23249999999999, Height: 7.5, Text: damage and decline of reputation
+Box: (69.6014, 401.2237), Width: 136.26, Height: 7.5, Text: Decrease in existing business transactions
+Box: (254.5647, 431.5195), Width: 75.80999999999997, Height: 6.0, Text: Tightening Regulations on
+Box: (254.5647, 423.5215), Width: 72.47400000000002, Height: 6.0, Text: Handling of Personal Data
+Box: (366.9146, 431.118), Width: 153.91732499999983, Height: 7.5, Text: End of data monopolies held by existing platformers;
+Box: (392.645375, 422.118), Width: 102.4488, Height: 7.5, Text: expansion of open data availability
+Box: (227.0128, 406.12519999999995), Width: 130.91279999999998, Height: 6.0, Text: International Tax Trends (Measures to address
+Box: (247.7848, 398.12719999999996), Width: 86.03400000000002, Height: 6.0, Text: tax avoidance and platformers)
+Box: (384.1774, 405.7237), Width: 119.391075, Height: 7.5, Text: Improvement in corporate performance;
+Box: (414.4275, 396.7237), Width: 58.889999999999986, Height: 7.5, Text: optimized taxation
+Box: (257.5866, 385.72549999999995), Width: 66.48539999999997, Height: 6.0, Text: Economic Policy Trends
+Box: (228.9962, 363.6719), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (253.0622, 363.6719), Width: 3.3359999999999843, Height: 6.0, Text: 2
+Box: (277.1282, 363.6719), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.1942, 363.6719), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.26020000000005, 363.6719), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (349.3262000000001, 363.6719), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (82.44749999999999, 350.8162), Width: 110.565, Height: 7.5, Text: Destabilization of financial markets
+Box: (236.112, 351.71509999999995), Width: 109.37999999999997, Height: 6.0, Text: Continuation of Monetary Easing Policy
+Box: (396.364, 350.8136), Width: 95.01750000000004, Height: 7.5, Text: Stable low cost of fundraising
+Box: (61.458999999999946, 334.4186), Width: 152.54099999999997, Height: 7.5, Text: Upward pressure on interest rates; higher taxes
+Box: (238.9408, 335.32079999999996), Width: 103.72200000000001, Height: 6.0, Text: Change in Expansionary Fiscal Policy
+Box: (381.8443, 338.91929999999996), Width: 126.14249999999998, Height: 7.5, Text: Expectations for private sector to drive
+Box: (370.7818, 329.91929999999996), Width: 146.17500000000007, Height: 7.5, Text: economic growth; faster pace of deregulation
+Box: (87.541, 302.6579), Width: 410.4449999999994, Height: 7.5, Text: Business development amid growing uncertainties and instability as countries prioritize bringing their own economies
+Box: (202.4485, 293.1554), Width: 176.45250000000001, Height: 7.5, Text: back to normal during unstable international affairs
+Box: (257.6635, 259.7784), Width: 66.2758, Height: 16.0, Text: E (Economical)
+Box: (166.2891, 247.62820000000002), Width: 15.040999999999997, Height: 6.5, Text: Risks
+Box: (388.95309999999995, 247.62820000000002), Width: 37.674000000000035, Height: 6.5, Text: Opportunities
+Box: (74.2513, 228.6345), Width: 131.13000000000005, Height: 7.5, Text: Decrease in business opportunities and
+Box: (116.7538, 219.6345), Width: 41.95500000000003, Height: 7.5, Text: trade volume
+Box: (66.3913, 194.622), Width: 144.7575, Height: 7.5, Text: Emergence of non-performing assets due to
+Box: (83.3338, 185.622), Width: 108.7875, Height: 7.5, Text: economic and social deterioration
+Box: (64.0213, 160.60950000000003), Width: 149.50500000000002, Height: 7.5, Text: Decrease in currencies of emerging countries;
+Box: (76.7488, 151.60950000000003), Width: 121.96499999999999, Height: 7.5, Text: increase in overseas investment costs
+Box: (68.55130000000003, 126.59700000000002), Width: 140.43749999999997, Height: 7.500000000000014, Text: Formation and collapse of asset bubbles in
+Box: (93.69130000000003, 117.59700000000002), Width: 88.06499999999996, Height: 7.5, Text: specific fields and products
+Box: (82.98879999999997, 88.08450000000002), Width: 109.46249999999998, Height: 7.5, Text: Excessive swings in project prices
+Box: (233.8172, 235.6407), Width: 113.47799999999995, Height: 6.0, Text: Economic Slump in Developed Countries
+Box: (252.9488, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.01480000000004, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.08080000000007, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.1468000000001, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (349.21280000000013, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (232.7786, 202.7588), Width: 119.3808, Height: 6.0, Text: Greater Disparities in Economic Growth in
+Box: (263.34860000000003, 196.7588), Width: 54.90599999999995, Height: 6.0, Text: Emerging Countries
+Box: (253.0622, 180.0152), Width: 3.3359999999999843, Height: 6.0, Text: 2
+Box: (252.9488, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.1282, 180.0152), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.1942, 180.0152), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (264.2333, 167.60920000000002), Width: 53.135400000000004, Height: 6.0, Text: Dollar Appreciation
+Box: (277.01480000000004, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.08080000000007, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.26020000000005, 180.0152), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (325.1468000000001, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (249.1673, 136.1163), Width: 86.60340000000002, Height: 6.0, Text: Asset (stocks, real estate) and
+Box: (257.0513, 129.1143), Width: 67.49340000000001, Height: 6.0, Text: Resource Price Increase
+Box: (252.9488, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.01480000000004, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.08080000000007, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.1468000000001, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (242.3995, 99.57770000000001), Width: 96.80340000000001, Height: 6.0, Text: Change in Investment Environment
+Box: (252.9488, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 2
+Box: (277.01480000000004, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 3
+Box: (301.2008, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 4
+Box: (325.3868, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 5
+Box: (349.3262000000001, 180.0152), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (349.21280000000013, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (349.21280000000013, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (349.4528, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 6
+Box: (228.8828, 214.0593), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (228.9962, 180.0152), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (228.8828, 146.05620000000002), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (228.8828, 112.0121), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (228.8828, 77.99640000000001), Width: 3.3360000000000127, Height: 6.0, Text: 1
+Box: (372.3163, 228.6345), Width: 145.19250000000005, Height: 7.5, Text: Emergence of new demand from changes in
+Box: (389.1238, 219.6345), Width: 109.48500000000001, Height: 7.5, Text: consumer and corporate behavior
+Box: (369.3388, 199.122), Width: 151.14750000000004, Height: 7.5, Text: Increase in consumer spending as standard of
+Box: (372.11379999999997, 190.122), Width: 143.50424999999996, Height: 7.5, Text: living improves; increase in demand for infra-
+Box: (371.8438, 181.122), Width: 144.05174999999997, Height: 7.5, Text: structure and foodstuffs as population grows
+Box: (371.9113, 160.60950000000003), Width: 146.00250000000005, Height: 7.5, Text: Improvement in earnings environment due to
+Box: (417.3313, 151.60950000000003), Width: 53.07674999999995, Height: 7.5, Text: yen depreciation
+Box: (371.0638, 131.09700000000004), Width: 147.6825, Height: 7.5, Text: Increase in fundraising capacity due to higher
+Box: (374.9638, 122.09700000000002), Width: 141.96749999999997, Height: 7.500000000000014, Text: value of existing assets; growth in earnings
+Box: (424.3438, 113.09700000000002), Width: 39.03750000000002, Height: 7.5, Text: from trading
+Box: (382.31379999999996, 97.08450000000002), Width: 125.18175000000008, Height: 7.5, Text: Increase in expected returns as growth
+Box: (365.96379999999994, 88.08450000000002), Width: 157.89000000000016, Height: 7.5, Text: rebounds; more investment opportunities in fields
+Box: (375.12879999999996, 79.08450000000002), Width: 137.4675000000001, Height: 7.5, Text: of strength in accordance with restructuring
+Box: (122.19129999999996, 49.759500000000024), Width: 341.1224999999997, Height: 7.5, Text: With only moderate recoveries in the economies of developed countries, and widening disparities
+Box: (79.47879999999995, 40.257000000000026), Width: 422.3849999999994, Height: 7.5, Text: in the economic growth potential of emerging countries, monitor the balance between growth fields and fields peaking out
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 36

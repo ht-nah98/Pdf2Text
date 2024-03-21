@@ -1,0 +1,187 @@
+Box: (262.9795, 788.6129), Width: 55.144000000000005, Height: 8.0, Text: Editorial Policy
+Box: (56.6929, 769.1013999999999), Width: 219.68800000000016, Height: 7.0, Text: In compiling this annual report, ITOCHU focuses on three functions in particu-
+Box: (56.6929, 759.0983999999999), Width: 213.6260000000002, Height: 7.0, Text: lar: (1) providing an in-depth understanding of its unique business model to
+Box: (56.6929, 749.0953999999998), Width: 210.96600000000012, Height: 7.0, Text: a wide range of readers around the world, (2) effectively explaining the pro-
+Box: (56.6929, 739.0923999999998), Width: 217.64470000000023, Height: 7.0, Text: cesses and potential for ITOCHU to achieve sustainable growth in corporate
+Box: (56.6929, 729.0893999999997), Width: 219.03700000000015, Height: 7.0, Text: value over the long term, and (3) by organizing our management policies and
+Box: (56.6929, 719.0863999999997), Width: 212.39400000000012, Height: 7.0, Text: financial and non-financial capital and communicating them to internal and
+Box: (56.6929, 709.0833999999996), Width: 217.72799999999995, Height: 7.0, Text: external stakeholders, fostering the virtuous cycle of cultivating mutual under-
+Box: (56.69289999999998, 699.0803999999996), Width: 206.38800000000006, Height: 7.0, Text: standing through dialogue and achieving a greater level of management
+Box: (56.69290000000001, 689.0773999999996), Width: 91.86099999999996, Height: 7.0, Text: sophistication for the Company.
+Box: (56.69290000000001, 679.0743999999995), Width: 218.67300000000023, Height: 7.0, Text: Annual Report 2020 was compiled based on this focus with consideration
+Box: (56.69290000000001, 669.0713999999995), Width: 209.0753000000002, Height: 7.0, Text: paid to the disclosure framework of the International Integrated Reporting
+Box: (56.69290000000001, 659.0683999999994), Width: 214.99800000000016, Height: 7.0, Text: Council (IIRC). Special emphasis was also placed on connectivity as well as
+Box: (56.69290000000001, 649.0653999999994), Width: 180.67000000000013, Height: 7.0, Text: the sustainability and future of our strategy and business model.
+Box: (63.51790000000001, 639.0623999999993), Width: 205.99600000000015, Height: 7.0, Text: ITOCHU aims to steadily address social issues and rapid changes in the
+Box: (56.69290000000001, 629.0593999999993), Width: 210.27300000000025, Height: 7.0, Text: business environment, including its response to the COVID-19 pandemic,
+Box: (56.69290000000001, 619.0563999999993), Width: 219.7370000000002, Height: 7.0, Text: while being guided by its Group corporate mission, “Sampo-yoshi,” an ideals
+Box: (301.88890000000004, 769.0593999999992), Width: 160.9090000000001, Height: 7.0, Text: and driving force that has allowed ITOCHU to overcome
+Box: (301.88890000000004, 759.0563999999991), Width: 154.39830000000018, Height: 7.0, Text: numerous hardships in its more than 160-year history.
+Box: (301.88890000000004, 749.0533999999991), Width: 156.2106000000001, Height: 7.0, Text: Furthermore, ITOCHU intends to build a foundation for
+Box: (301.88890000000004, 739.0503999999991), Width: 152.52300000000002, Height: 7.0, Text: sustainable growth and enhance corporate value, by
+Box: (301.88890000000004, 729.047399999999), Width: 166.37600000000003, Height: 7.0, Text: targeting growth and further progress in both financial and
+Box: (301.88890000000004, 719.044399999999), Width: 160.01300000000003, Height: 7.0, Text: non-financial capital that it has refined and accumulated
+Box: (301.88890000000004, 709.0413999999989), Width: 148.8823, Height: 7.0, Text: to date, while moving to pursue both economic and
+Box: (301.88890000000004, 699.0383999999989), Width: 34.46800000000002, Height: 7.0, Text: social value.
+Box: (308.7139, 689.0353999999988), Width: 209.14600000000024, Height: 7.0, Text: In compiling this annual report, in addition to these points, we focused on
+Box: (301.88890000000004, 679.0323999999988), Width: 210.07700000000017, Height: 7.0, Text: giving explanation especially for the relationship between “corporate value
+Box: (301.88890000000004, 669.0293999999988), Width: 200.3330000000002, Height: 7.0, Text: based on the perspective for investment decisions,” as it relates to the
+Box: (301.88890000000004, 659.0263999999987), Width: 192.49160000000012, Height: 7.0, Text: Company’s shares, and “the pursuit of capital efficiency,” one of the
+Box: (301.88890000000004, 649.0233999999987), Width: 103.09599999999995, Height: 7.0, Text: Company’s management strategies.
+Box: (301.88890000000004, 639.0203999999986), Width: 221.66830000000016, Height: 7.0, Text: Going forward, we intend to further improve our annual report as a medium
+Box: (301.88890000000004, 629.0173999999986), Width: 209.3350000000002, Height: 7.0, Text: for dialogue with a variety of stakeholders through reflecting their opinions.
+Box: (56.6929, 596.1597499999999), Width: 108.6885, Height: 7.25, Text: Reporting Scope and Other Items
+Box: (56.6929, 586.85295), Width: 224.4104999999999, Height: 6.797250000000076, Text: Reporting Period:  April 1, 2019 to March 31, 2020 (Certain sections include
+Box: (301.8897, 596.1597499999999), Width: 97.06499999999994, Height: 7.25, Text: Detailed Financial Information
+Box: (301.8897, 586.9002), Width: 221.022, Height: 6.75, Text: For detailed financial information for FYE 2020, please see the Financial Section.
+Box: (113.46715, 578.9014500000001), Width: 118.04400000000004, Height: 6.75, Text: activities occurring in or after April 2020.)
+Box: (56.69290000000001, 569.43795), Width: 187.44074999999998, Height: 6.797250000000076, Text: Reporting Scope: ITOCHU Corporation and the ITOCHU Group
+Box: (56.69290000000001, 560.0217), Width: 203.41867500000006, Height: 6.797250000000076, Text: Accounting Standards:  Unless otherwise noted, this annual report is
+Box: (129.84265, 552.0702000000001), Width: 143.07300000000004, Height: 6.75, Text: prepared in accordance with U.S. GAAP through
+Box: (129.84265, 544.0714500000001), Width: 120.29850000000005, Height: 6.75, Text: FYE 2014, and with IFRS from FYE 2015.
+Box: (56.692899999999995, 534.6079500000001), Width: 211.68, Height: 6.797250000000076, Text: Terminology:  Throughout this report, “consolidated net profit” is used to
+Box: (98.34039999999999, 526.6564500000002), Width: 176.28300000000002, Height: 6.75, Text: refer to “net profit attributable to ITOCHU.” Unless otherwise
+Box: (98.34039999999999, 518.6577000000002), Width: 178.15949999999992, Height: 6.75, Text: indicated, FamilyMart refers to both FamilyMart Co., Ltd. and
+Box: (98.34039999999999, 510.6589500000002), Width: 168.1762500000001, Height: 6.750000000000057, Text: FamilyMart convenience stores, and CITIC refers to CITIC
+Box: (98.34039999999999, 502.6602000000002), Width: 22.997250000000008, Height: 6.75, Text: Limited.
+Box: (308.9763, 576.74245), Width: 177.88650000000007, Height: 7.25, Text: https://www.itochu.co.jp/en/ir/doc/financial_section/
+Box: (301.8898, 537.6599000000001), Width: 80.13600000000002, Height: 6.75, Text: Inquiries for Annual Reports
+Box: (301.8898, 526.3364), Width: 195.83999999999992, Height: 8.0, Text: Investor Relations Department:   +81 (3)-3497-7295
+Box: (57.0381, 475.84990000000005), Width: 6.5, Height: 3.4904999999999973, Text: h
+Box: (57.0381, 472.2359), Width: 6.5, Height: 3.613999999999976, Text: g
+Box: (57.0381, 467.54290000000003), Width: 6.5, Height: 3.4904999999999973, Text: h
+Box: (57.0381, 471.03340000000003), Width: 6.5, Height: 1.2024999999999864, Text: i
+Box: (57.0381, 462.7264), Width: 6.5, Height: 3.0095000000000027, Text: y
+Box: (57.0381, 460.6789), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (57.0381, 457.3054), Width: 6.5, Height: 3.3734999999999786, Text: e
+Box: (57.0381, 453.8084), Width: 6.5, Height: 3.854499999999973, Text: V
+Box: (57.0381, 420.4504), Width: 6.5, Height: 1.2024999999999864, Text: l
+Box: (57.0381, 430.8049), Width: 6.5, Height: 3.1265000000000214, Text: s
+Box: (57.0381, 428.7574), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (57.0381, 425.3839), Width: 6.5, Height: 3.3734999999999786, Text: e
+Box: (57.0381, 421.6529), Width: 6.5, Height: 3.7309999999999945, Text: d
+Box: (57.0381, 416.83639999999997), Width: 6.5, Height: 3.613999999999976, Text: o
+Box: (57.0381, 413.3459), Width: 6.5, Height: 3.4904999999999973, Text: h
+Box: (57.0381, 409.9724), Width: 6.5, Height: 3.3734999999999786, Text: e
+Box: (57.0381, 406.7224), Width: 6.5, Height: 3.25, Text: k
+Box: (57.0381, 403.3489), Width: 6.5, Height: 3.3734999999999786, Text: a
+Box: (57.0381, 401.4249), Width: 6.5, Height: 1.9239999999999782, Text: t
+Box: (57.0381, 398.2984), Width: 6.5, Height: 3.1265000000000214, Text: s
+Box: (57.0381, 394.4439), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (57.0381, 390.82989999999995), Width: 6.5, Height: 3.613999999999976, Text: o
+Box: (57.0381, 389.14639999999997), Width: 6.5, Height: 1.683499999999981, Text: f
+Box: (57.0381, 383.9659), Width: 6.5, Height: 3.3734999999999786, Text: e
+Box: (57.0381, 380.5924), Width: 6.5, Height: 3.3734999999999786, Text: c
+Box: (57.0381, 377.1019), Width: 6.5, Height: 3.4904999999999973, Text: n
+Box: (57.0381, 373.72839999999997), Width: 6.5, Height: 3.3734999999999786, Text: a
+Box: (57.0381, 371.8044), Width: 6.5, Height: 1.9239999999999782, Text: t
+Box: (57.0381, 369.7569), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (57.0381, 366.1429), Width: 6.5, Height: 3.613999999999976, Text: o
+Box: (57.0381, 362.4119), Width: 6.5, Height: 3.7309999999999945, Text: p
+Box: (57.0381, 356.99739999999997), Width: 6.5, Height: 5.414499999999975, Text: m
+Box: (57.0381, 355.5544), Width: 6.5, Height: 1.4429999999999836, Text: I
+Box: (56.695, 316.89939999999996), Width: 14.690000000000005, Height: 6.5, Text: High
+Box: (93.2055, 316.89939999999996), Width: 126.80200000000005, Height: 6.5, Text: Importance for management            Very high
+Box: (247.7077, 444.8445), Width: 93.3675, Height: 7.5, Text: Annual Report (this report)
+Box: (251.5102, 434.1495), Width: 45.142499999999984, Height: 7.5, Text: [Focus points]
+Box: (251.5102, 422.652), Width: 88.62750000000005, Height: 7.5, Text: • Connectivity and reliability
+Box: (251.5102, 411.1545), Width: 107.22750000000002, Height: 7.5, Text: • Relationships with stakeholders
+Box: (251.5102, 399.657), Width: 198.21674999999993, Height: 7.5, Text: • Sustainability and future of our strategy and business model
+Box: (247.4578, 372.60269999999997), Width: 39.599999999999994, Height: 7.5, Text: IR Website
+Box: (247.4578, 361.10269999999997), Width: 78.63750000000002, Height: 7.5, Text: Sustainability Website
+Box: (247.4578, 349.60269999999997), Width: 43.065000000000026, Height: 7.5, Text: ESG Report
+Box: (249.56529999999998, 338.18019999999996), Width: 45.142499999999984, Height: 7.5, Text: [Focus points]
+Box: (249.56529999999998, 329.18019999999996), Width: 115.70250000000004, Height: 7.5, Text: Comprehensiveness and timeliness
+Box: (249.56529999999998, 320.18019999999996), Width: 44.03249999999997, Height: 7.5, Text: of information
+Box: (68.2815, 283.2545), Width: 440.74449999999945, Height: 7.0, Text: As the standard for inclusion in our investor-oriented annual report, we have selected environmental, social, and governance (ESG)-related informa-
+Box: (68.2815, 275.25350000000003), Width: 211.31529999999998, Height: 7.0, Text: tion based mainly on its relation to our businesses and material issues.
+Box: (72.0617, 259.3141), Width: 6.5, Height: 3.1265000000000214, Text: s
+Box: (72.0617, 255.94060000000002), Width: 6.5, Height: 3.3734999999999786, Text: e
+Box: (72.0617, 252.45010000000002), Width: 6.5, Height: 3.4904999999999973, Text: u
+Box: (72.0617, 249.3236), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 246.19709999999998), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 244.9946), Width: 6.5, Height: 1.2024999999999864, Text: i
+Box: (72.0617, 241.98510000000002), Width: 6.5, Height: 1.2024999999999864, Text: l
+Box: (72.0617, 238.61160000000004), Width: 6.5, Height: 3.373500000000007, Text: a
+Box: (72.0617, 237.40910000000002), Width: 6.5, Height: 1.2024999999999864, Text: i
+Box: (72.0617, 235.36160000000004), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (72.0617, 231.98810000000003), Width: 6.5, Height: 3.373500000000007, Text: e
+Box: (72.0617, 230.06410000000005), Width: 6.5, Height: 1.9240000000000066, Text: t
+Box: (72.0617, 226.69060000000002), Width: 6.5, Height: 3.373500000000007, Text: a
+Box: (72.0617, 221.27610000000004), Width: 6.5, Height: 5.414500000000004, Text: m
+Box: (72.0617, 215.73810000000003), Width: 6.5, Height: 3.7309999999999945, Text: d
+Box: (72.0617, 212.24760000000003), Width: 6.5, Height: 3.4904999999999973, Text: n
+Box: (72.0617, 208.87410000000003), Width: 6.5, Height: 3.373500000000007, Text: a
+Box: (72.0617, 186.2476), Width: 6.5, Height: 1.2024999999999864, Text: i
+Box: (72.0617, 203.94060000000002), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 200.56710000000004), Width: 6.5, Height: 3.373500000000007, Text: e
+Box: (72.0617, 197.44060000000002), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 194.31410000000002), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 190.94060000000002), Width: 6.5, Height: 3.373500000000007, Text: e
+Box: (72.0617, 187.45010000000002), Width: 6.5, Height: 3.4904999999999973, Text: n
+Box: (72.0617, 183.1211), Width: 6.5, Height: 3.126499999999993, Text: s
+Box: (72.0617, 179.63060000000002), Width: 6.5, Height: 3.4904999999999973, Text: u
+Box: (72.0617, 175.89960000000002), Width: 6.5, Height: 3.7309999999999945, Text: b
+Box: (72.0617, 172.04510000000002), Width: 6.5, Height: 2.0475000000000136, Text: r
+Box: (72.0617, 168.5546), Width: 6.5, Height: 3.4904999999999973, Text: u
+Box: (72.0617, 164.94060000000002), Width: 6.5, Height: 3.6140000000000043, Text: o
+Box: (72.0617, 159.51960000000003), Width: 6.5, Height: 3.6140000000000043, Text: o
+Box: (72.0617, 157.59560000000002), Width: 6.5, Height: 1.9240000000000066, Text: t
+Box: (72.0617, 152.2981), Width: 6.5, Height: 3.4904999999999973, Text: n
+Box: (72.0617, 148.6841), Width: 6.5, Height: 3.6140000000000043, Text: o
+Box: (72.0617, 147.48160000000001), Width: 6.5, Height: 1.2024999999999864, Text: i
+Box: (72.0617, 145.5576), Width: 6.5, Height: 1.9240000000000066, Text: t
+Box: (72.0617, 142.1841), Width: 6.5, Height: 3.373500000000007, Text: a
+Box: (72.0617, 137.6081), Width: 6.5, Height: 3.373500000000007, Text: e
+Box: (72.0617, 133.2726), Width: 6.5, Height: 4.335499999999996, Text: R
+Box: (72.0617, 140.98160000000001), Width: 6.5, Height: 1.2024999999999864, Text: l
+Box: (88.645, 257.72713200000004), Width: 7.679231999999999, Height: 10.907999999999959, Text: B
+Box: (145.333876, 257.72713200000004), Width: 7.2756359999999916, Height: 10.907999999999959, Text: A
+Box: (99.8894, 226.3929), Width: 25.560000000000002, Height: 6.0, Text: Example:
+Box: (97.9934, 218.3949), Width: 31.019400000000005, Height: 6.0, Text: Healthcare
+Box: (94.2854, 210.39690000000002), Width: 35.10600000000001, Height: 6.0, Text: IT businesses
+Box: (158.8059, 222.3929), Width: 88.47479999999999, Height: 6.0, Text: Example: Storage battery-related
+Box: (186.98790000000002, 214.3949), Width: 28.77000000000001, Height: 6.0, Text: businesses
+Box: (88.645, 153.19576800000004), Width: 7.875575999999995, Height: 10.907999999999987, Text: C
+Box: (127.5754, 148.0041), Width: 107.9214, Height: 6.0, Text: Example: Project for protecting sea turtles
+Box: (87.864, 120.00269999999999), Width: 165.18449999999987, Height: 6.5, Text: Our participation in operating activity (investment ratio, etc.)
+Box: (286.2992, 264.4095), Width: 93.10000000000002, Height: 7.0, Text: Contained in Annual Report
+Box: (286.2992, 252.4643), Width: 202.59675, Height: 7.499999999999972, Text: A.  Operating activities that are highly related to ITOCHU’s
+Box: (295.4717, 243.4643), Width: 199.8075, Height: 7.5, Text: businesses and material issues and that ITOCHU actively
+Box: (295.4717, 234.4643), Width: 40.98750000000001, Height: 7.5, Text: participates
+Box: (286.2992, 216.4643), Width: 202.87424999999996, Height: 7.5, Text: B.  Operating activities that are highly related to ITOCHU’s
+Box: (295.7492, 207.4643), Width: 197.58750000000003, Height: 7.5, Text: businesses and material issues while the participation of
+Box: (295.7492, 198.4643), Width: 61.54499999999996, Height: 7.5, Text: ITOCHU is limited
+Box: (286.2992, 175.4016), Width: 164.8073, Height: 7.0, Text: Contained in Sustainability Website / ESG Report
+Box: (286.2992, 163.4565), Width: 225.79424999999998, Height: 7.5, Text: C.  Operating activities with little relation to ITOCHU’s businesses
+Box: (295.88419999999996, 154.4565), Width: 66.97499999999997, Height: 7.5, Text: and material issues
+Box: (56.6929, 78.8046), Width: 152.792, Height: 8.0, Text: For more information about Sustainability
+Box: (56.6929, 64.8046), Width: 88.59999999999994, Height: 8.0, Text: Sustainability website
+Box: (152.7388, 64.8046), Width: 126.9839999999999, Height: 8.0, Text: https://www.itochu.co.jp/en/csr/
+Box: (56.6929, 52.239900000000006), Width: 340.2483, Height: 7.0, Text: • Top commitment   • Sustainability at the ITOCHU Group   • ESG Report (Environment, Society, Governance)
+Box: (56.69290000000001, 42.236900000000006), Width: 204.62330000000003, Height: 7.0, Text: • Social contribution activities   • GRI standard reference table, etc.
+Box: (56.6929, 17.6325), Width: 5.560000000000002, Height: 10.0, Text: 8
+Box: (57.0381, 387.33939999999996), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 396.4914), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 433.9314), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 435.7384), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 437.5454), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 439.3524), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 441.1594), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 442.9664), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 444.77340000000004), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 446.58040000000005), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 448.3874), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 450.19440000000003), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 452.00140000000005), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (57.0381, 465.7359), Width: 6.5, Height: 1.8070000000000164, Text: 
+Box: (56.69289999999999, 495.6604500000002), Width: 1.8765, Height: 6.75, Text: 
+Box: (301.8897, 569.9002), Width: 1.8765000000000214, Height: 6.75, Text: 
+Box: (56.69290000000001, 639.0623999999993), Width: 1.945999999999998, Height: 7.0, Text: 
+Box: (301.88890000000004, 689.0353999999988), Width: 1.9460000000000264, Height: 7.0, Text: 
+Box: (72.0617, 155.7886), Width: 6.5, Height: 1.806999999999988, Text: 
+Box: (72.0617, 163.1336), Width: 6.5, Height: 1.806999999999988, Text: 
+Box: (72.0617, 174.0926), Width: 6.5, Height: 1.806999999999988, Text: 
+Box: (72.0617, 207.06710000000004), Width: 6.5, Height: 1.806999999999988, Text: 
+Box: (72.0617, 219.46910000000003), Width: 6.5, Height: 1.806999999999988, Text: 
+Box: (72.0617, 243.18760000000003), Width: 6.5, Height: 1.806999999999988, Text: 

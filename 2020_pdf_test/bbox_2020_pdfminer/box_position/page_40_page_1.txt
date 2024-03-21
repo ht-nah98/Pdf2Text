@@ -1,0 +1,96 @@
+Box: (56.6929, 787.4907), Width: 369.0526000000001, Height: 14.0, Text: Sustainable Value Creation through Capital Accumulation
+Box: (56.6929, 741.7221), Width: 444.6521999999994, Height: 9.0, Text: The ITOCHU Group conducts its business through both trade and business investment. In the course of its
+Box: (56.6929, 729.7251), Width: 441.70019999999954, Height: 9.0, Text: history over 160 years, we have steadily accumulated internal capital such as human capital and business
+Box: (56.6929, 717.7281), Width: 47.8521, Height: 9.0, Text: know-how.
+Box: (56.6929, 705.7311000000001), Width: 462.0131999999993, Height: 9.0, Text: Meanwhile, we believe that trust and creditworthiness are extremely important for achieving enhancement of
+Box: (56.69290000000001, 693.7341000000001), Width: 463.0112999999992, Height: 9.0, Text: interaction between internal and external capital. By always remaining cautious of trust and creditworthiness in
+Box: (56.69290000000001, 681.7371000000002), Width: 469.54619999999943, Height: 9.0, Text: our management practice, we aim to realize increases in economic and social value, and to continuously expand
+Box: (56.69290000000001, 669.7401000000002), Width: 86.21100000000001, Height: 9.0, Text: our corporate value.
+Box: (56.6929, 625.3446), Width: 284.832, Height: 11.5, Text: Importance and Monitoring Indicators of Each Capital
+Box: (75.8904, 527.1377), Width: 117.512, Height: 8.0, Text: Human and Organizational Capital
+Box: (258.9616, 592.5762), Width: 63.17999999999995, Height: 9.0, Text: Internal Capital
+Box: (225.0551, 574.2402), Width: 130.9950000000001, Height: 7.5, Text: Importance of Capital in Value Creation
+Box: (378.0401, 574.2402), Width: 136.95750000000004, Height: 7.5, Text: Examples of KPIs / Monitoring Indicators
+Box: (215.4331, 549.0812000000001), Width: 139.68434999999997, Height: 6.5, Text: Human resources are the driving force behind the
+Box: (215.4331, 542.0807000000001), Width: 146.5099999999999, Height: 6.5, Text: functioning of our business models. We increase “in-
+Box: (215.4331, 535.0802000000001), Width: 143.26649999999998, Height: 6.5, Text: dividual capabilities” and labor productivity through
+Box: (215.4331, 528.0797000000001), Width: 150.62449999999998, Height: 6.5, Text: our human resource strategies. In addition, our “profit
+Box: (215.4331, 521.0792000000001), Width: 141.57000000000002, Height: 6.5, Text: earning” business divisions have powerful backing
+Box: (215.4331, 514.0787000000001), Width: 142.05749999999998, Height: 6.5, Text: from our administrative divisions, which have rapid
+Box: (215.4331, 507.0782000000001), Width: 142.0445, Height: 6.500000000000057, Text: decision-making systems and high-level expertise.
+Box: (371.3356, 556.0752000000001), Width: 94.39235000000002, Height: 6.5, Text: • Labor productivity of employees
+Box: (371.3356, 549.0747000000001), Width: 61.41199999999998, Height: 6.5, Text: • Engagement Survey
+Box: (371.3356, 542.0742000000001), Width: 120.78950000000003, Height: 6.5, Text: •  Time and money spent on employee skill
+Box: (376.3926, 535.0737000000001), Width: 36.237499999999955, Height: 6.5, Text: development
+Box: (371.3356, 528.0732000000002), Width: 134.24450000000002, Height: 6.5, Text: •  Number of employees with Chinese-language
+Box: (376.3926, 521.0727000000002), Width: 35.9905, Height: 6.5, Text: qualifications
+Box: (371.3356, 514.0722000000002), Width: 70.31700000000001, Height: 6.5, Text: • Hours of overtime work
+Box: (371.3356, 507.07170000000013), Width: 77.66199999999998, Height: 6.500000000000057, Text: • Paid leave acquisition rate
+Box: (371.3356, 500.07120000000015), Width: 114.61450000000002, Height: 6.5, Text: • Evaluation by students looking for work
+Box: (98.5701, 462.7348), Width: 72.15199999999999, Height: 8.0, Text: Business Know-How
+Box: (215.4331, 477.6783), Width: 147.85550000000003, Height: 6.5, Text: With eight Division Companies operating businesses
+Box: (215.4331, 470.6778), Width: 142.41499999999994, Height: 6.5, Text: in diverse industries, ITOCHU has accumulated ex-
+Box: (215.4331, 463.6773), Width: 146.02184999999994, Height: 6.5, Text: tensive business know-how. This is a vital intangible
+Box: (215.4331, 456.6768), Width: 151.81400000000005, Height: 6.5, Text: asset for creating new businesses and expanding into
+Box: (215.4331, 449.6763), Width: 37.452999999999975, Height: 6.5, Text: new regions.
+Box: (371.3356, 470.67780000000005), Width: 102.92750000000001, Height: 6.5, Text: • Number of new businesses formed
+Box: (371.3356, 463.67730000000006), Width: 123.02550000000008, Height: 6.5, Text: •  Number of years of business with existing
+Box: (376.3926, 456.67680000000007), Width: 29.490500000000054, Height: 6.5, Text: customers
+Box: (103.8302, 401.8319), Width: 61.63200000000002, Height: 8.0, Text: Business Portfolio
+Box: (215.4331, 427.2754), Width: 137.02649999999997, Height: 6.5, Text: Under pressure to respond to a rapidly changing
+Box: (215.4331, 420.2749), Width: 133.63999999999996, Height: 6.5, Text: management environment and diversification of
+Box: (215.4331, 413.2744), Width: 133.04785, Height: 6.5, Text: consumer needs, the entire ITOCHU Group will
+Box: (215.4331, 406.2739), Width: 128.83585000000002, Height: 6.5, Text: leverage its comprehensive strength in a wide
+Box: (215.4331, 399.27340000000004), Width: 143.845, Height: 6.5, Text: range of business domains to transform its existing
+Box: (215.4331, 392.27290000000005), Width: 141.4399999999999, Height: 6.5, Text: business models and enable expansion of its func-
+Box: (215.4331, 385.27240000000006), Width: 142.64899999999997, Height: 6.5, Text: tional domains, expanding the potential for sustain-
+Box: (215.4331, 378.2719000000001), Width: 52.3835, Height: 6.5, Text: able profit growth.
+Box: (371.3356, 406.2739000000001), Width: 124.26050000000004, Height: 6.5, Text: • Ratio of Group companies reporting profits
+Box: (371.3356, 399.2734000000001), Width: 98.2475, Height: 6.5, Text: • Management efficiency indicators
+Box: (125.5694, 338.76910000000004), Width: 174.05910000000003, Height: 9.026999999999987, Text: Trust and Creditworthiness (Sampo-yoshi)
+Box: (385.5643, 339.6021), Width: 47.196500000000015, Height: 6.5, Text: Financial Capital
+Box: (442.6814, 339.6021), Width: 64.66850000000005, Height: 6.5, Text: Page 40 CFO Interview
+Box: (91.0104, 244.4053), Width: 87.27200000000002, Height: 8.0, Text: Client and Partner Assets
+Box: (257.5441, 299.3439), Width: 66.01409999999998, Height: 9.0, Text: External Capital
+Box: (225.055, 281.0079), Width: 130.99500000000006, Height: 7.5, Text: Importance of Capital in Value Creation
+Box: (378.03999999999996, 281.0079), Width: 136.95749999999998, Height: 7.5, Text: Examples of KPIs / Monitoring Indicators
+Box: (215.4331, 262.8488), Width: 140.725, Height: 6.5, Text: We maintain win–win relationships with our clients
+Box: (215.4331, 255.84830000000002), Width: 151.83350000000004, Height: 6.499999999999972, Text: and partners, which include a large number of leading
+Box: (215.4331, 248.84780000000003), Width: 152.04799999999997, Height: 6.5, Text: companies. This is vital to our ability to rapidly expand
+Box: (215.4331, 241.84730000000005), Width: 152.06035, Height: 6.5, Text: into new domains and constantly capture and expand
+Box: (215.4331, 234.84680000000006), Width: 151.69050000000001, Height: 6.5, Text: trade. It is our abundant client and partner assets that
+Box: (215.4331, 227.84630000000007), Width: 137.26050000000006, Height: 6.5, Text: enable us to realize sustainable earnings growth.
+Box: (371.3356, 255.84830000000008), Width: 118.46250000000003, Height: 6.499999999999972, Text: • Profits from initiatives with good partners
+Box: (371.3356, 248.8478000000001), Width: 91.6175, Height: 6.5, Text: • Number of clients and partners
+Box: (371.3356, 241.8473000000001), Width: 144.02049999999997, Height: 6.5, Text: •  Expenses reduced and decrease in allowance for
+Box: (376.3926, 234.84680000000012), Width: 28.528500000000008, Height: 6.5, Text: bad debts
+Box: (102.9301, 190.50240000000002), Width: 63.43120000000003, Height: 8.0, Text: Natural Resources
+Box: (215.4331, 205.44590000000002), Width: 128.10135, Height: 6.5, Text: Through its business in the non-resource and
+Box: (215.4331, 198.44540000000003), Width: 146.419, Height: 6.5, Text: resource sectors, we meet social demand for stable
+Box: (215.4331, 191.44490000000005), Width: 144.61135, Height: 6.5, Text: procurement and supply of natural resources, while
+Box: (215.4331, 184.44440000000006), Width: 145.90550000000005, Height: 6.5, Text: capturing new business opportunities in responding
+Box: (215.4331, 177.44390000000007), Width: 105.33250000000007, Height: 6.5, Text: to social issues outlined in the SDGs.
+Box: (371.3356, 205.44590000000008), Width: 77.79850000000005, Height: 6.5, Text: • Ratio of renewable energy
+Box: (371.3356, 198.4454000000001), Width: 85.60500000000002, Height: 6.5, Text: • Level of energy consumption
+Box: (371.3356, 191.4449000000001), Width: 74.51600000000002, Height: 6.5, Text: • Level of waste emissions
+Box: (371.3356, 184.44440000000012), Width: 90.53200000000004, Height: 6.5, Text: • Amount of paper consumption
+Box: (371.3356, 177.44390000000013), Width: 112.20300000000003, Height: 6.5, Text: • Amount of water usage and emissions
+Box: (89.8263, 119.0996), Width: 89.63999999999999, Height: 8.0, Text: Relationships with Society
+Box: (215.4331, 137.5431), Width: 139.90600000000003, Height: 6.5, Text: We practice constructive communication with our
+Box: (215.4331, 130.54260000000002), Width: 138.333, Height: 6.5, Text: stakeholders, ascertaining their expectations and
+Box: (215.4331, 123.5421), Width: 131.35199999999995, Height: 6.5, Text: demands of the Company and resolving them.
+Box: (215.4331, 116.5416), Width: 134.84185, Height: 6.5, Text: Through this effort we promote stable business
+Box: (215.4331, 109.5411), Width: 143.6435, Height: 6.5, Text: activities in Japan and overseas and realize further
+Box: (215.4331, 102.5406), Width: 79.83950000000002, Height: 6.5, Text: increases in corporate value.
+Box: (371.3356, 155.0411), Width: 125.45000000000005, Height: 6.5, Text: •  Number of engagements with stakeholders
+Box: (371.3356, 148.0406), Width: 148.79149999999993, Height: 6.5, Text: •  Number of companies participating in sustainability
+Box: (376.3926, 141.04010000000002), Width: 21.183500000000038, Height: 6.5, Text: surveys
+Box: (371.3356, 134.03960000000004), Width: 143.27949999999998, Height: 6.5, Text: •  Number of ESG- and compliance-related internal
+Box: (376.3926, 127.03910000000003), Width: 77.519, Height: 6.500000000000014, Text: training session participants
+Box: (371.3356, 120.03860000000003), Width: 140.12635000000006, Height: 6.5, Text: •  External evaluation of initiatives and additions to
+Box: (376.3926, 113.03810000000003), Width: 21.424000000000035, Height: 6.5, Text: indexes
+Box: (371.3356, 106.03760000000003), Width: 136.05800000000005, Height: 6.5, Text: •  Shareholder returns (dividend payout ratio and
+Box: (376.3926, 99.03710000000002), Width: 72.00700000000006, Height: 6.5, Text: share buybacks) and EPS
+Box: (371.3356, 92.03660000000002), Width: 118.09850000000006, Height: 6.5, Text: •  Evaluation by ESG evaluation institutions
+Box: (371.3356, 85.03610000000002), Width: 119.91200000000003, Height: 6.5, Text: •  Number of compliance violation incidents
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 38

@@ -1,0 +1,85 @@
+Box: (56.6929, 787.4907), Width: 389.52199999999993, Height: 14.0, Text: COVID-19’s Impact on the Company and Status of Initiatives
+Box: (56.6929, 741.7221), Width: 439.67609999999956, Height: 9.0, Text: We explain COVID-19’s impact on our operating performance and management policies, as well as status
+Box: (56.6929, 729.7251), Width: 52.362, Height: 9.0, Text: of initiatives.
+Box: (63.6932, 697.1355), Width: 14.34600000000001, Height: 9.0, Text: Q.1
+Box: (93.5433, 700.3321), Width: 419.0021999999995, Height: 9.0, Text: How has COVID-19 affected ITOCHU’s consolidated business performance, management strategies,
+Box: (93.5433, 689.3340999999999), Width: 88.53299999999997, Height: 9.0, Text: and business model?
+Box: (56.6929, 667.0461), Width: 213.7625, Height: 8.75, Text: Our initial plan of consolidated business performance for
+Box: (56.6929, 654.54235), Width: 201.17125000000004, Height: 8.75, Text: FYE 2021 called for consolidated net profit of ¥400.0
+Box: (56.6929, 642.0386000000001), Width: 213.1412499999999, Height: 8.75, Text: billion. This incorporates a direct downward impact from
+Box: (56.6929, 629.5348500000001), Width: 205.18749999999994, Height: 8.75, Text: COVID-19 of roughly 10%, excluding such impacts as
+Box: (56.6929, 617.0311000000002), Width: 210.06124999999992, Height: 8.75, Text: falling resource prices. In addition, we set a higher-than-
+Box: (56.6929, 604.5273500000002), Width: 202.45750000000004, Height: 8.75, Text: usual loss buffer of ¥50.0 billion, an increase of ¥20.0
+Box: (56.6929, 592.0236000000002), Width: 201.13624999999996, Height: 8.75, Text: billion from previous years. Our plan thus gave ample
+Box: (56.6929, 579.5198500000002), Width: 195.9562499999999, Height: 8.75, Text: consideration to preparedness for uncertainty in the
+Box: (56.6929, 567.0161000000003), Width: 86.695, Height: 8.75, Text: business environment.
+Box: (56.6929, 554.5123500000003), Width: 206.02750000000003, Height: 8.75, Text: Even before the worldwide spread of COVID-19, we
+Box: (56.69290000000001, 542.0086000000003), Width: 206.00999999999993, Height: 8.75, Text: have been responding to rapid structural changes and
+Box: (301.8854, 667.0111000000004), Width: 187.495, Height: 8.75, Text: digitalization in client industries, and have steadily
+Box: (301.8854, 654.5073500000004), Width: 211.97749999999996, Height: 8.75, Text: promoted initiatives to evolve and transform our existing
+Box: (301.8854, 642.0036000000005), Width: 211.30375000000004, Height: 8.75, Text: business models. It is said that COVID-19 would rapidly
+Box: (301.8854, 629.4998500000005), Width: 205.21375, Height: 8.75, Text: accelerate changes in purchasing methods and prefer-
+Box: (301.8854, 616.9961000000005), Width: 201.28499999999997, Height: 8.75, Text: ences, as well as the digital shift. That said, the basic
+Box: (301.8854, 604.4923500000006), Width: 215.0574999999999, Height: 8.75, Text: business flow—procuring and delivering what customers
+Box: (301.8854, 591.9886000000006), Width: 191.75624999999997, Height: 8.75, Text: want—remains unchanged. Going forward, we will
+Box: (301.8854, 579.4848500000006), Width: 210.04375, Height: 8.75, Text: continue to take the social needs of individual countries
+Box: (301.8854, 566.9811000000007), Width: 199.02750000000003, Height: 8.75, Text: and regions into account as we pursue our business
+Box: (301.8854, 554.4773500000007), Width: 203.08749999999998, Height: 8.75, Text: from a customer viewpoint through a market-oriented
+Box: (301.8854, 541.9736000000007), Width: 48.30000000000001, Height: 8.75, Text: perspective.
+Box: (63.6932, 503.38550000000004), Width: 14.34600000000001, Height: 8.999999999999943, Text: Q.2
+Box: (93.5433, 501.0821), Width: 226.59120000000001, Height: 9.0, Text: Has COVID-19 prompted a change in ESG awareness?
+Box: (56.69290000000001, 473.2248500000007), Width: 195.76375, Height: 8.75, Text: Even if some business activities are suspended due
+Box: (56.69290000000001, 460.72110000000066), Width: 203.41999999999996, Height: 8.75, Text: to COVID-19, rather than responding with emergency
+Box: (56.69290000000001, 448.21735000000064), Width: 224.46374999999995, Height: 8.75, Text: actions, we believe companies should maintain responsible
+Box: (56.69290000000001, 435.7136000000006), Width: 182.98000000000002, Height: 8.75, Text: ESG management from a medium- to long-term
+Box: (56.69290000000001, 423.2098500000006), Width: 45.86750000000001, Height: 8.75, Text: perspective.
+Box: (65.44290000000001, 410.70610000000056), Width: 199.19374999999997, Height: 8.75, Text: In addition to environment-related measures to date,
+Box: (56.69290000000001, 398.20235000000054), Width: 206.15874999999994, Height: 8.75, Text: such as addressing climate change and marine plastic
+Box: (56.69290000000001, 385.6986000000005), Width: 214.26124999999996, Height: 8.75, Text: pollution, the spread of COVID-19 provides an important
+Box: (56.69290000000001, 373.1948500000005), Width: 212.3099999999999, Height: 8.75, Text: opportunity to renew society-related initiatives, including
+Box: (56.69290000000001, 360.69110000000046), Width: 200.3225, Height: 8.75, Text: the supply chain and human rights. In April 2020, we
+Box: (56.69290000000001, 348.18735000000044), Width: 165.50625000000002, Height: 8.75, Text: declared a new Group corporate mission of
+Box: (301.8854, 473.18985000000043), Width: 213.10624999999993, Height: 8.75, Text: “Sampo-yoshi,” which is the philosophy we have upheld
+Box: (301.8854, 460.6861000000004), Width: 204.365, Height: 8.75, Text: since the time of our founding. While ensuring that we
+Box: (301.8854, 448.1823500000004), Width: 221.2349999999999, Height: 8.75, Text: maintain and improve profitability, we will continue working
+Box: (301.8854, 435.67860000000036), Width: 213.30662499999994, Height: 8.75, Text: hard to resolve social issues by, for instance, providing a
+Box: (301.8854, 423.17485000000033), Width: 206.35124999999994, Height: 8.75, Text: wide range of products and services and creating new
+Box: (301.8854, 410.6711000000003), Width: 213.62249999999995, Height: 8.75, Text: businesses. To this end, we recognize the importance of
+Box: (301.8854, 398.1673500000003), Width: 217.82249999999988, Height: 8.75, Text: remaining sensitive to changing social values and continu-
+Box: (301.8854, 385.66360000000026), Width: 216.18624999999986, Height: 8.75, Text: ously undertaking proactive and consistent initiatives that
+Box: (301.8854, 373.15985000000023), Width: 69.86000000000001, Height: 8.75, Text: contribute to ESG.
+Box: (63.6932, 309.63550000000004), Width: 14.34600000000001, Height: 9.0, Text: Q.3
+Box: (93.5433, 312.8321), Width: 405.49499999999944, Height: 9.0, Text: What are some examples of initiatives ITOCHU is taking to sustain its business in an environment
+Box: (93.5433, 301.83410000000003), Width: 95.544, Height: 9.0, Text: affected by COVID-19?
+Box: (56.69290000000001, 279.41235000000023), Width: 202.91162499999996, Height: 8.75, Text: As the ITOCHU Group’s strength lies in the consumer
+Box: (56.69290000000001, 266.9086000000002), Width: 220.8762499999999, Height: 8.75, Text: sector, its businesses support the social infrastructure that
+Box: (56.69290000000001, 254.40485000000018), Width: 200.3137499999999, Height: 8.75, Text: forms the foundation of everyday lives in many ways.
+Box: (56.69290000000001, 241.90110000000018), Width: 203.7525, Height: 8.75, Text: Accordingly, we are undertaking a host of initiatives to
+Box: (56.69290000000001, 229.3973500000002), Width: 224.1574999999999, Height: 8.75, Text: sustain corporate activities even in an environment affected
+Box: (56.69290000000001, 216.8936000000002), Width: 55.1075, Height: 8.75, Text: by COVID-19.
+Box: (56.69290000000001, 204.3898500000002), Width: 218.3125, Height: 8.75, Text: For example, our subsidiary, HOKEN NO MADOGUCHI
+Box: (56.69290000000001, 191.8861000000002), Width: 210.70875, Height: 8.75, Text: GROUP INC., which is one of Japan’s largest insurance
+Box: (56.69290000000001, 179.3823500000002), Width: 207.11249999999995, Height: 8.75, Text: agencies with walk-in stores, has promptly established
+Box: (56.69290000000001, 166.8786000000002), Width: 210.35874999999987, Height: 8.75, Text: a nationwide system to provide insurance consultations
+Box: (56.69290000000001, 154.3748500000002), Width: 214.470375, Height: 8.75, Text: online, leveraging the ITOCHU Group resources, in order
+Box: (56.69290000000001, 141.8711000000002), Width: 217.98875000000004, Height: 8.75, Text: to respond to customer concerns about conducting insur-
+Box: (56.69290000000004, 129.36735000000022), Width: 218.3037499999999, Height: 8.75, Text: ance consultations face-to-face. This system went on line
+Box: (56.69290000000004, 116.86360000000022), Width: 222.8712499999999, Height: 8.75, Text: in July 2020. Another example can be found at an affiliated
+Box: (56.69290000000004, 104.35985000000022), Width: 213.68287499999994, Height: 8.75, Text: company, WingArc1st Inc., which provides software and
+Box: (301.8854, 279.3598500000002), Width: 219.95749999999987, Height: 8.75, Text: services that help leverage corporate data. Amid the rapid
+Box: (301.8854, 266.8561000000002), Width: 207.4537499999999, Height: 8.75, Text: shift to working from home, this company energetically
+Box: (301.8854, 254.35235000000017), Width: 209.55374999999998, Height: 8.75, Text: deployed a web-based invoice distribution service both
+Box: (301.8854, 241.84860000000018), Width: 188.64999999999998, Height: 8.75, Text: within and outside the ITOCHU Group. This move
+Box: (301.8854, 229.34485000000018), Width: 224.14874999999995, Height: 8.75, Text: addressed the issue of preparation and shipping of invoice,
+Box: (301.8854, 216.84110000000018), Width: 202.45749999999987, Height: 8.75, Text: which had presented a barrier to working from home.
+Box: (301.8854, 204.33735000000019), Width: 205.40537499999994, Height: 8.75, Text: Through this service, WingArc1st Inc. helps to prevent
+Box: (301.8854, 191.8336000000002), Width: 221.69875000000002, Height: 8.75, Text: infection risk at companies adopting the system and aided
+Box: (301.8854, 179.3298500000002), Width: 196.09624999999994, Height: 8.75, Text: the shift in workstyles in an environment affected by
+Box: (301.8854, 166.8261000000002), Width: 43.60124999999999, Height: 8.75, Text: COVID-19.
+Box: (301.8854, 154.3223500000002), Width: 195.62374999999997, Height: 8.75, Text: Through these improvements on the front lines of
+Box: (301.8854, 141.8186000000002), Width: 222.49499999999978, Height: 8.75, Text: business and the steadily accumulated effect of small initia-
+Box: (301.8854, 129.3148500000002), Width: 224.9274999999999, Height: 8.75, Text: tives, the ITOCHU Group demonstrates its highly distinctive
+Box: (301.8854, 116.81110000000021), Width: 216.82500000000005, Height: 8.75, Text: characteristics in business contributing to customers and
+Box: (301.8854, 104.30735000000021), Width: 61.60000000000002, Height: 8.75, Text: society at large.
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 56
+Box: (56.69290000000001, 410.70610000000056), Width: 2.4324999999999974, Height: 8.75, Text: 

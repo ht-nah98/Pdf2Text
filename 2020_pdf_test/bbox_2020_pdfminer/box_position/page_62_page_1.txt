@@ -1,0 +1,70 @@
+Box: (56.6929, 816.5299), Width: 196.34159999999991, Height: 8.0, Text: Steppingstones to Medium- to Long-Term Value Creation
+Box: (56.6929, 653.6256000000001), Width: 460.21799999999996, Height: 20.059999999999945, Text: Realizing Our “Sampo-yoshi” Philosophy through
+Box: (56.69290000000001, 627.6256000000001), Width: 437.5400000000001, Height: 20.0, Text: the Largest Multifaceted Development in Japan
+Box: (56.6929, 610.9699999999999), Width: 469.1951999999993, Height: 9.0, Text: A market-oriented perspective and an ecosystem that shares value among all stakeholders underpin our storage
+Box: (56.6929, 598.973), Width: 461.5199999999992, Height: 9.0, Text: battery business. By forming one of the largest AI-equipped storage battery networks in Japan, we aim for sus-
+Box: (56.6929, 586.976), Width: 121.54499999999999, Height: 9.0, Text: tainable value enhancement.
+Box: (56.6929, 537.5498), Width: 145.79000000000002, Height: 10.0, Text: Investment of Time Leading to
+Box: (56.6929, 525.5498), Width: 108.18, Height: 10.0, Text: Competitive Advantage
+Box: (309.89289999999994, 538.0478), Width: 208.19040000000007, Height: 8.0, Text: In addition to pursuing functionality, we worked to design an
+Box: (301.89289999999994, 526.0478), Width: 219.46159999999998, Height: 8.0, Text: ecosystem optimized for homes and other partners in regard to
+Box: (301.89289999999994, 514.0478), Width: 197.5119999999999, Height: 8.0, Text: spanning sales, distribution, construction, and call center
+Box: (56.6929, 502.0478), Width: 212.51839999999993, Height: 8.0, Text: In May 2010, we launched a joint pilot project in collaboration
+Box: (301.89289999999994, 502.04780000000005), Width: 198.95999999999998, Height: 8.0, Text: support. In designing the system, our distinctive business
+Box: (56.6929, 490.0478), Width: 204.34159999999991, Height: 8.0, Text: with a number of other companies and the city of Tsukuba,
+Box: (301.89289999999994, 490.04780000000005), Width: 208.1975999999999, Height: 8.0, Text: know-how and coordination skills we had cultivated through
+Box: (56.6929, 478.0478), Width: 224.2144, Height: 8.0, Text: Ibaraki Prefecture, for a future low-carbon transportation system.
+Box: (301.89289999999994, 478.04780000000005), Width: 214.14959999999996, Height: 8.0, Text: our strength in the non-resource sector truly came to the fore.
+Box: (56.6929, 466.0478), Width: 217.09519999999992, Height: 8.0, Text: The multidisciplinary project combined solar power generation,
+Box: (301.89289999999994, 466.04780000000005), Width: 224.32799999999986, Height: 8.0, Text: Amid growing awareness of the need to address power outages,
+Box: (56.6929, 454.0478), Width: 216.96559999999988, Height: 8.0, Text: Electric Vehicles (EVs), storage batteries, and ICT. Through this
+Box: (301.89289999999994, 454.04780000000005), Width: 207.73599999999993, Height: 8.0, Text: giving the rise in natural disasters, examples of Smart Star L
+Box: (56.6929, 442.0478), Width: 205.10400000000004, Height: 8.0, Text: project, we have placed the steppingstones for our storage
+Box: (301.89289999999994, 442.04780000000005), Width: 221.11119999999994, Height: 8.0, Text: application are garnering attention. In addition, we have in place
+Box: (56.6929, 430.0478), Width: 215.86959999999988, Height: 8.0, Text: battery business of today. This investment of time has resulted
+Box: (301.89289999999994, 430.04780000000005), Width: 220.95039999999995, Height: 8.0, Text: a thorough market-oriented perspective, a robust sales network
+Box: (56.6929, 418.0478), Width: 208.64559999999994, Height: 8.0, Text: in the accumulation of expertise and partners who share our
+Box: (301.89289999999994, 418.04780000000005), Width: 215.4552, Height: 8.0, Text: that incorporates Group companies, and an optimized ecosys-
+Box: (56.6929, 406.0478), Width: 224.7199999999999, Height: 8.0, Text: medium- to long-term vision. These essential assets have helped
+Box: (301.89289999999994, 406.04780000000005), Width: 202.87039999999996, Height: 8.0, Text: tem. These efforts enabled us to create new opportunities.
+Box: (56.6929, 394.0478), Width: 177.67839999999995, Height: 8.0, Text: us build the competitive advantage we enjoy today.
+Box: (56.6929, 369.5498), Width: 197.41, Height: 10.0, Text: Taking on Challenges beyond the Bounds
+Box: (56.6929, 357.5498), Width: 140.429, Height: 10.0, Text: of a General Trading Company
+Box: (301.8897, 381.5498), Width: 207.85999999999996, Height: 10.0, Text: Evolution by Combining Existing Businesses
+Box: (301.8897, 369.5498), Width: 106.16000000000003, Height: 10.0, Text: with New Technologies
+Box: (301.8897, 346.0478), Width: 223.18319999999989, Height: 8.0, Text: In January 2018, we entered a capital and business alliance with
+Box: (56.6929, 334.0478), Width: 204.2056, Height: 8.0, Text: In the 1990s, we entered the business of providing storage
+Box: (301.8897, 334.0478), Width: 219.59999999999997, Height: 8.0, Text: Moixa Energy Holdings Ltd. of the United Kingdom, a company
+Box: (56.6929, 322.0478), Width: 210.7039999999999, Height: 8.0, Text: battery manufacturing equipment, component materials, and
+Box: (301.8897, 322.0478), Width: 209.52800000000002, Height: 8.0, Text: that leverages AI technology in the power platform business.
+Box: (56.6929, 310.0478), Width: 217.3647999999999, Height: 8.0, Text: other items to manufacturers. Growth in this business relied on
+Box: (301.8897, 310.0478), Width: 221.8304, Height: 8.0, Text: Under this agreement, we acquired exclusive marketing rights in
+Box: (56.6929, 298.0478), Width: 210.27839999999986, Height: 8.0, Text: battery manufacturers’ product sales. To achieve sustainable
+Box: (301.8897, 298.0478), Width: 216.81519999999983, Height: 8.0, Text: Japan to provide Moixa’s household service. The challenge we
+Box: (56.6929, 286.0478), Width: 208.5256, Height: 8.0, Text: growth, we recognized the need to expand our downstream
+Box: (301.8897, 286.0478), Width: 214.5743999999999, Height: 8.0, Text: had taken up, to move into a position more akin to a manufac-
+Box: (56.6929, 274.0478), Width: 223.89599999999984, Height: 8.0, Text: business and generate demand by ourselves. A solution came in
+Box: (301.8897, 274.0478), Width: 219.0224, Height: 8.0, Text: turer, came to fruition in this agreement under a common vision
+Box: (56.6929, 262.0478), Width: 218.1439999999999, Height: 8.0, Text: the form of a household Energy Storage System (ESS). Instead
+Box: (301.8897, 262.0478), Width: 202.86399999999992, Height: 8.0, Text: of creating a platform that combines storage batteries with
+Box: (56.6929, 250.0478), Width: 216.80719999999985, Height: 8.0, Text: of merely selling products, we took up the challenge of moving
+Box: (301.8897, 250.0478), Width: 213.68560000000008, Height: 8.0, Text: Moixa’s AI technology. This AI technology analyzes and learns
+Box: (56.6929, 238.0478), Width: 212.63119999999992, Height: 8.0, Text: into a manufacturer position by forming a partnership with NF
+Box: (301.8897, 238.0478), Width: 219.02319999999992, Height: 8.0, Text: about weather forecasts and household electricity demand and
+Box: (56.6929, 226.0478), Width: 224.06399999999957, Height: 8.0, Text: Corporation, a company we had begun doing business with in the
+Box: (56.6929, 214.0478), Width: 216.4791999999997, Height: 8.0, Text: past and that excelled in electronic circuits and control systems.
+Box: (56.6929, 189.5498), Width: 212.87, Height: 10.0, Text: A Thorough Market-Oriented Perspective and
+Box: (56.6929, 177.5498), Width: 120.81, Height: 10.0, Text: Overall Ecosystem Design
+Box: (56.6929, 154.04780000000002), Width: 212.92799999999994, Height: 8.0, Text: Our first initiative was to reflect consumer demand in the after-
+Box: (56.69289999999998, 142.04780000000002), Width: 216.21439999999993, Height: 8.0, Text: math of the Great East Japan Earthquake. We responded with
+Box: (56.69289999999998, 130.04780000000002), Width: 213.2784, Height: 8.0, Text: 200V power sources that could provide emergency power for
+Box: (56.69289999999998, 118.04780000000001), Width: 199.328, Height: 8.0, Text: entire homes. Looking ahead to post-2019 demand once
+Box: (56.69289999999998, 106.04780000000001), Width: 217.8543999999999, Height: 8.0, Text: Japan’s feed-in tariff (FIT) scheme for renewable energy ended,
+Box: (56.69289999999998, 94.04780000000001), Width: 206.43839999999992, Height: 8.0, Text: we secured a battery capacity of approximately 10kWh, the
+Box: (56.69289999999998, 82.04780000000001), Width: 219.4775999999999, Height: 8.0, Text: amount of power an average household uses in one day. It was
+Box: (56.69289999999998, 70.04780000000001), Width: 212.51039999999992, Height: 8.0, Text: in May 2017 that we launched the Smart Star L, offering func-
+Box: (56.69289999999998, 58.04780000000001), Width: 190.84639999999987, Height: 8.0, Text: tionality competitors’ products did not offer at the time.
+Box: (56.6929, 17.6325), Width: 11.119999999999997, Height: 10.0, Text: 60
+Box: (82.2047, 24.848000000000003), Width: 43.177499999999995, Height: 4.5, Text: ITOCHU Corporation
+Box: (82.2047, 18.849500000000003), Width: 49.023000000000025, Height: 4.5, Text: ANNUAL REPORT 2020
+Box: (301.89289999999994, 538.0478), Width: 2.2239999999999895, Height: 8.0, Text: 

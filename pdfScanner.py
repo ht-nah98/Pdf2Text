@@ -5,22 +5,10 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from tqdm import tqdm
 import cv2
-
-# for page_layout in extract_pages("./all/2020/page_8.pdf"):
-#     for element in page_layout:
-#         print(element)
-#         if isinstance(element, LTTextContainer):
-#             print(element.get_text())
-
-
 from pdfminer.high_level import extract_pages
 
 
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
-import os
-from pdfminer.layout import LTTextContainer, LTLine, LTRect
-from pdfminer.high_level import extract_pages
+
 
 def draw_bounding_boxes(pdf_path, page_num, output_pdf_path, output_txt_path):
     # Get the page layout
@@ -84,7 +72,7 @@ def draw_bounding_boxes_for_folder(folder_path):
             draw_bounding_boxes(input_pdf_path, 1, output_pdf_path, output_txt_path)
 
 # Example usage:
-# draw_bounding_boxes_for_folder("./2020_pdf_test/pdf")
+draw_bounding_boxes_for_folder("./2020_pdf_test/pdf")
 
 
 
