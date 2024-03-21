@@ -6,7 +6,7 @@ from paddleocr import PPStructure, draw_structure_result
 from PIL import Image
 
 
-def process_images_and_convert_to_docx(input_folder, output_folder):
+def convert_images_to_docx(input_folder, output_folder):
     # Initialize the table engine
     table_engine = PPStructure(recovery=True, use_gpu=False)
 
@@ -25,9 +25,6 @@ def process_images_and_convert_to_docx(input_folder, output_folder):
             # Process the image
             result = table_engine(img)
 
-            # Save structure result
-            save_structure_res(result, output_folder, os.path.splitext(filename)[0])
-
             # Remove 'img' key from result
             for line in result:
                 line.pop('img')
@@ -36,18 +33,21 @@ def process_images_and_convert_to_docx(input_folder, output_folder):
             h, w, _ = img.shape
             res = sorted_layout_boxes(result, w)
 
-            # Convert to docx
-            convert_info_docx(img, res, output_folder, os.path.splitext(filename)[0])
+            # Convert to DOCX
+            output_filename = os.path.splitext(filename)[0] + '.docx'
+            convert_info_docx(img, res, output_folder, output_filename)
 
             print(f"Converted {filename} to DOCX.")
 
-
 # Specify input and output folders
-input_folder = './2020_pdf_test/bbox_2020_paddle'
+input_folder = './2020_pdf_test/imgs'
 output_folder = './2020_pdf_test/txt_2020_paddle'
 
-# Process images and convert to DOCX
-process_images_and_convert_to_docx(input_folder, output_folder)
+# Convert images to DOCX
+convert_images_to_docx(input_folder, output_folder)
+
+
+
 
 
 # def process_images(input_folder, output_folder, font_path):

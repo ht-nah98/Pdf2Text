@@ -1,0 +1,82 @@
+Box: (117.1135, 755.5640999999999), Width: 346.87600000000015, Height: 20.0, Text: Driving Force for Sustainable Value Creation
+Box: (56.6929, 732.9984999999999), Width: 218.2571999999999, Height: 9.0, Text: We continue to hone the driving force for value creation,
+Box: (56.6929, 721.0015), Width: 221.07329999999996, Height: 9.0, Text: which flows through the values and corporate culture we
+Box: (56.6929, 709.0045), Width: 212.24609999999996, Height: 9.0, Text: have upheld over more than 160 years, as we strive to
+Box: (56.6929, 697.0075), Width: 146.214, Height: 9.0, Text: sustainably enhance corporate value.
+Box: (315.4265, 707.0070999999999), Width: 37.76400000000001, Height: 9.0, Text: Corporate
+Box: (323.5175, 698.0070999999999), Width: 19.323000000000036, Height: 9.0, Text: Value
+Box: (266.3258, 633.0508), Width: 48.45100000000002, Height: 13.0, Text: POINTS
+Box: (71.5949, 605.4621), Width: 122.99120000000002, Height: 8.0, Text: Distinctive “Inherited Strengths”
+Box: (104.62689999999999, 594.4621), Width: 54.695999999999984, Height: 8.0, Text: as a Merchant
+Box: (239.3479, 605.4621), Width: 106.85600000000002, Height: 8.0, Text: Pursuing “All the Priorities,”
+Box: (237.6519, 594.4621), Width: 108.024, Height: 8.0, Text: not just “a Single Expedient”
+Box: (396.2887, 610.9621), Width: 110.12, Height: 8.0, Text: Realizing Management Being
+Box: (410.7447, 599.9621), Width: 81.21519999999998, Height: 8.0, Text: Cautious of Trust and
+Box: (418.8967, 588.9621), Width: 62.68799999999999, Height: 8.0, Text: Creditworthiness
+Box: (112.1209, 573.4552), Width: 34.845, Height: 8.039999999999964, Text: ▶ Page 20
+Box: (271.806, 573.4552), Width: 34.84500000000003, Height: 8.039999999999964, Text: ▶ Page 30
+Box: (431.491, 573.4552), Width: 34.84500000000003, Height: 8.039999999999964, Text: ▶ Page 38
+Box: (65.19489999999999, 558.1741), Width: 116.61600000000001, Height: 8.0, Text: We have cultivated our distinctive
+Box: (65.19489999999999, 547.1741), Width: 115.59119999999999, Height: 8.0, Text: strengths as a merchant over the
+Box: (65.19489999999999, 536.1741), Width: 121.34400000000002, Height: 8.0, Text: years, including “individual capabili-
+Box: (65.19489999999999, 525.1741), Width: 113.05520000000001, Height: 8.0, Text: ties,” “earning power in the non-
+Box: (65.19489999999999, 514.1741), Width: 118.12719999999999, Height: 8.0, Text: resource sector,” “experience and
+Box: (65.19489999999999, 503.17409999999995), Width: 128.792, Height: 8.0, Text: track record in China and other parts
+Box: (65.19489999999999, 492.17409999999995), Width: 133.5504, Height: 8.0, Text: of Asia,” and “comprehensive strength
+Box: (65.19489999999999, 481.17409999999995), Width: 117.03999999999999, Height: 8.0, Text: and ability of self-transformation.”
+Box: (224.8839, 558.1741), Width: 119.15200000000002, Height: 8.0, Text: Centering on the unwavering ideal
+Box: (224.8839, 547.1741), Width: 124.16800000000003, Height: 8.0, Text: “Sampo-yoshi,” rather than seeking
+Box: (224.8839, 536.1741), Width: 122.99199999999999, Height: 8.0, Text: to achieve either short-term targets
+Box: (224.8839, 525.1741), Width: 123.56799999999996, Height: 8.0, Text: or the medium- to long-term vision,
+Box: (224.8839, 514.1741), Width: 119.60800000000003, Height: 8.0, Text: or either economic or social value,
+Box: (224.8839, 503.17409999999995), Width: 121.20000000000002, Height: 8.0, Text: we aim to pursue “all the priorities.”
+Box: (384.56870000000004, 558.1781), Width: 123.89600000000002, Height: 8.0, Text: Through ongoing management that
+Box: (384.56870000000004, 547.1781), Width: 124.16640000000001, Height: 8.0, Text: remains cautious of trust and credit-
+Box: (384.56870000000004, 536.1781), Width: 129.93600000000004, Height: 8.0, Text: worthiness based on “Sampo-yoshi,”
+Box: (384.56870000000004, 525.1781), Width: 126.416, Height: 8.0, Text: we will enhance interaction between
+Box: (384.56870000000004, 514.1781), Width: 131.87040000000013, Height: 8.0, Text: internal and external capital and strive
+Box: (384.56870000000004, 503.1781), Width: 117.22399999999999, Height: 8.0, Text: to enhance sustainable corporate
+Box: (384.56870000000004, 492.1781), Width: 22.23199999999997, Height: 8.0, Text: value.
+Box: (153.0031, 349.0759), Width: 275.0960000000001, Height: 20.0, Text: Achievement of Short-Term Targets
+Box: (56.6929, 326.5092), Width: 218.21219999999983, Height: 9.0, Text: Through “commitment-based management,” we remain
+Box: (56.6929, 314.5122), Width: 206.72099999999995, Height: 9.0, Text: intent on steadily achieving our targets for each fiscal
+Box: (56.6929, 302.5152), Width: 218.88, Height: 9.0, Text: year. We believe this is important for gaining the support
+Box: (56.6929, 290.5182), Width: 224.7111, Height: 9.0, Text: of stakeholders regarding the feasibility of our medium- to
+Box: (56.6929, 278.52119999999996), Width: 126.1962, Height: 9.0, Text: long-term management strategy.
+Box: (442.7701, 320.73650000000004), Width: 29.466000000000008, Height: 9.0, Text: Created
+Box: (446.7121, 311.73650000000004), Width: 19.323000000000036, Height: 9.0, Text: Value
+Box: (266.3258, 226.5625), Width: 48.45100000000002, Height: 13.0, Text: POINTS
+Box: (85.8788, 198.9748), Width: 94.42399999999999, Height: 8.0, Text: Trajectory for Enhancing
+Box: (101.1508, 187.9748), Width: 61.65519999999998, Height: 8.0, Text: Corporate Value
+Box: (234.07909999999998, 193.4748), Width: 115.17600000000004, Height: 8.0, Text: Business Results for FYE 2020
+Box: (398.1402, 193.4748), Width: 106.416, Height: 8.0, Text: FYE 2021 Management Plan
+Box: (112.1209, 166.96720000000002), Width: 34.845, Height: 8.039999999999992, Text: ▶ Page 50
+Box: (271.806, 166.96720000000002), Width: 34.84500000000003, Height: 8.039999999999992, Text: ▶ Page 52
+Box: (431.491, 166.96720000000002), Width: 34.84500000000003, Height: 8.039999999999992, Text: ▶ Page 54
+Box: (65.1988, 151.6868), Width: 112.62400000000002, Height: 8.0, Text: Based on our “Brand-new Deal”
+Box: (65.1988, 140.6868), Width: 115.44, Height: 8.0, Text: strategy, which commenced with
+Box: (65.1988, 129.6868), Width: 116.93600000000004, Height: 8.0, Text: “Brand-new Deal 2012,” we have
+Box: (65.1988, 118.68679999999999), Width: 110.24720000000002, Height: 8.0, Text: elicited our strengths and taken
+Box: (65.1988, 107.68679999999999), Width: 122.40800000000002, Height: 8.0, Text: steady steps to enhance corporate
+Box: (65.1988, 96.68679999999999), Width: 22.232000000000014, Height: 8.0, Text: value.
+Box: (224.88709999999998, 151.6908), Width: 115.59200000000004, Height: 8.0, Text: We exceeded the level of consoli-
+Box: (224.88709999999998, 140.6908), Width: 121.35919999999999, Height: 8.0, Text: dated net profit we had committed
+Box: (224.88709999999998, 129.6908), Width: 127.72800000000001, Height: 8.0, Text: to in our plan at the start of the fiscal
+Box: (224.88709999999998, 118.69079999999998), Width: 130.264, Height: 8.0, Text: year, surpassing ¥500.0 billion for the
+Box: (224.88709999999998, 107.69079999999998), Width: 127.89599999999996, Height: 8.0, Text: second consecutive year and achiev-
+Box: (224.88709999999998, 96.69079999999998), Width: 133.56, Height: 8.0, Text: ing a new record high. Core Operating
+Box: (224.88709999999998, 85.69079999999998), Width: 108.62400000000002, Height: 8.0, Text: Cash Flows and NET DER also
+Box: (224.88709999999998, 74.69079999999998), Width: 73.07119999999998, Height: 8.0, Text: marked new records.
+Box: (384.56419999999997, 151.6908), Width: 128.01440000000008, Height: 8.0, Text: Although the future business environ-
+Box: (384.56419999999997, 140.6908), Width: 130.9984, Height: 8.0, Text: ment is difficult to forecast accurately,
+Box: (384.56419999999997, 129.6908), Width: 120.92000000000002, Height: 8.0, Text: we will consolidate our foothold by
+Box: (384.56419999999997, 118.69079999999998), Width: 118.23840000000001, Height: 8.0, Text: thoroughly instilling the “earn, cut,
+Box: (384.56419999999997, 107.69079999999998), Width: 120.60000000000002, Height: 8.0, Text: prevent” principles, simultaneously
+Box: (384.56419999999997, 96.69079999999998), Width: 121.64800000000002, Height: 8.0, Text: putting in place the foundations for
+Box: (384.56419999999997, 85.69079999999998), Width: 92.31200000000001, Height: 8.0, Text: the post-COVID-19 world.
+Box: (56.6929, 17.6325), Width: 5.560000000000002, Height: 10.0, Text: 6
+Box: (56.6929, 17.6325), Width: 5.560000000000002, Height: 10.0, Text: 6
+Box: (82.2047, 24.848000000000003), Width: 43.177499999999995, Height: 4.5, Text: ITOCHU Corporation
+Box: (82.2047, 18.849500000000003), Width: 49.023000000000025, Height: 4.5, Text: ANNUAL REPORT 2020
+Box: (289.4391, 204.4748), Width: 2.2239999999999895, Height: 8.0, Text: 
+Box: (449.1242, 204.4748), Width: 2.2239999999999895, Height: 8.0, Text: 
