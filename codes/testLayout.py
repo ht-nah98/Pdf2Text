@@ -37,7 +37,7 @@ def process_structure(image_path, datas):
     img = cv2.imread(image_path)
     image_height, image_width, _ = img.shape
 
-    # Split the cleaned result into two lists: left_column and right_column
+    # Split the cleaned madori_test_data into two lists: left_column and right_column
     left_column = [line for line in datas if line['text_region'][0][0] < image_width // 2]
     right_column = [line for line in datas if line['text_region'][1][0] > image_width // 2]
 
@@ -62,9 +62,9 @@ with open('output.txt', 'w') as file:
 #
 # font_path = '../fonts/simfang.ttf' # PaddleOCR下提供字体包
 # image = Image.open(img_path).convert('RGB')
-# im_show = draw_structure_result(image, result,font_path=font_path)
+# im_show = draw_structure_result(image, madori_test_data,font_path=font_path)
 # im_show = Image.fromarray(im_show)
-# im_show.save('result.jpg')
+# im_show.save('madori_test_data.jpg')
 
 
 

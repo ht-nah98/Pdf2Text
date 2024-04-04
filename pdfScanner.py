@@ -24,6 +24,9 @@ def extract_bbox_and_text(pdf_file):
                 text_data.append(element.get_text().strip())
     return bbox_data, text_data
 
+# box, text = extract_bbox_and_text('2020_pdf_test/pdf/page_18.pdf')
+# print(box)
+# print(text)
 def process_images(input_folder, output_folder):
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
@@ -109,10 +112,36 @@ def extract_text_from_pdfs(pdf_folder, output_folder):
 
 
 
-output_folder_txt = "./2020_pdf_test/txt_2020_pdfminer"
-pdf_folder = "./2020_pdf_test"
-# Example usage:
-extract_text_from_pdfs(pdf_folder, output_folder_txt)
+# output_folder_txt = "./2020_pdf_test/txt_2020_pdfminer"
+# pdf_folder = "./2020_pdf_test"
+# # Example usage:
+# extract_text_from_pdfs(pdf_folder, output_folder_txt)
+
+def extract_bbox_and_text(pdf_file):
+    data = []
+    for page_layout in extract_pages(pdf_file):
+        _, _, width, height = page_layout.bbox  # Extract page width and height
+        for element in page_layout:
+            if isinstance(element, LTTextBox):
+                bbox = element.bbox
+                text = element.get_text().strip()
+                # Calculate scaled bounding box values
+                bbox_scale = (
+                    bbox[0] / width,
+                    bbox[1] / height,
+                    bbox[2] / width,
+                    bbox[3] / height
+                )
+                data.append({
+                    'bbox': bbox,
+                    'text': text,
+                    'bbox_scale': bbox_scale
+                })
+    return data
+
+
+
+print(extract_bbox_and_text('2020_pdf_test/pdf/page_18.pdf'))
 
 
 

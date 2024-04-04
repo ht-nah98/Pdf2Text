@@ -33,15 +33,15 @@ im_show.save('result2.jpg')
 # save_folder = './txt_generate'
 # img_path = './pages/testpage_idx5.png'
 # img = cv2.imread(img_path)
-# result = table_engine(img)
-# save_structure_res(result, save_folder, os.path.basename(img_path).split('.')[0])
+# madori_test_data = table_engine(img)
+# save_structure_res(madori_test_data, save_folder, os.path.basename(img_path).split('.')[0])
 #
-# for line in result:
+# for line in madori_test_data:
 #     line.pop('img')
 #     print(line)
 #
 # h, w, _ = img.shape
-# res = sorted_layout_boxes(result, w)
+# res = sorted_layout_boxes(madori_test_data, w)
 # convert_info_docx(img, res, save_folder, os.path.basename(img_path).split('.')[0])
 
 

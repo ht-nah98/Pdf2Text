@@ -29,7 +29,7 @@ class PdfProcessor:
         def custom_key(item):
             return item['bbox'][1], item['bbox'][0]
 
-        # Sort the result list based on the custom key
+        # Sort the madori_test_data list based on the custom key
         result_sorted = sorted(result, key=custom_key)
 
         return result_sorted

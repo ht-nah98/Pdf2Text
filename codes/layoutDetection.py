@@ -16,7 +16,7 @@ image_height, image_width, _ = img.shape
 result = table_engine(img)
 save_folder = '../all/structure'
 save_structure_res(result, save_folder,os.path.basename(img_path).split('.')[0])
-# Sort the result based on the position of the bounding boxes
+# Sort the madori_test_data based on the position of the bounding boxes
 sorted_result = sorted(result, key=lambda x: (x['bbox'][1], x['bbox'][0]))
 
 x_cordinate = []

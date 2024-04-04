@@ -53,7 +53,7 @@ class PdfProcessor:
         result = self.table_engine(img)
         image_height, image_width, _ = img.shape
 
-        # Sort the result based on the position of the bounding boxes
+        # Sort the madori_test_data based on the position of the bounding boxes
         sorted_result = sorted(result, key=lambda x: (x['bbox'][1], x['bbox'][0]))
 
         # Remove duplicate bounding boxes
@@ -71,7 +71,7 @@ class PdfProcessor:
             if not is_duplicate:
                 cleaned_result.append(line)
 
-        # Split the cleaned result into two lists: left_column and right_column
+        # Split the cleaned madori_test_data into two lists: left_column and right_column
         left_column = [line for line in cleaned_result if line['bbox'][2] < image_width // 2]
         right_column = [line for line in cleaned_result if line['bbox'][0] > image_width // 2]
 
