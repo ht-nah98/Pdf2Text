@@ -2,6 +2,7 @@ import os
 import cv2
 import pytesseract
 
+# upload to delete
 # Path to Tesseract executable (change this path according to your installation)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
